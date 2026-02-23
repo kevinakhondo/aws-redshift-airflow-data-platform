@@ -1,8 +1,12 @@
 # Terraform
 **/.terraform/
 *.tfstate
-*.tfstate.backup
+*.tfstate.*
 *.tfvars
+*.tfplan
+crash.log
+override.tf
+override.tf.json
 .terraform.lock.hcl
 
 # Python
