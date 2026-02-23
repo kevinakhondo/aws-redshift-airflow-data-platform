@@ -1,0 +1,25 @@
+name: aws_data_platform
+version: 1.0.0
+config-version: 2
+
+profile: aws_data_platform
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  aws_data_platform:
+    landing:
+      +schema: landing
+      +materialized: view
+    cds:
+      +schema: cds
+      +materialized: view
+    marts:
+      +schema: marts
+      +materialized: table

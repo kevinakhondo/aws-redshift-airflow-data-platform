@@ -1,0 +1,21 @@
+product_id,name,category,price
+P001,Wireless Headphones,Electronics,79.99
+P002,Running Shoes,Sports,59.99
+P003,Python Programming,Books,39.99
+P004,Coffee Maker,Home & Kitchen,49.99
+P005,Yoga Mat,Sports,29.99
+P006,Bluetooth Speaker,Electronics,49.99
+P007,Winter Jacket,Clothing,89.99
+P008,Air Fryer,Home & Kitchen,69.99
+P009,Data Science Handbook,Books,44.99
+P010,Smart Watch,Electronics,199.99
+P011,Running Shorts,Sports,24.99
+P012,Desk Lamp,Home & Kitchen,34.99
+P013,Novel: The Algorithm,Books,14.99
+P014,Protein Powder,Sports,54.99
+P015,Laptop Stand,Electronics,39.99
+P016,Linen Shirt,Clothing,34.99
+P017,French Press,Home & Kitchen,27.99
+P018,Kindle E-Reader,Electronics,129.99
+P019,Hiking Boots,Sports,99.99
+P020,Mechanical Keyboard,Electronics,149.99

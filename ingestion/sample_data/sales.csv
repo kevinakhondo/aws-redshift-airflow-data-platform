@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,product_name,category,quantity,unit_price,discount_pct,gross_amount,discount_amt,net_amount,order_date,status,payment_method,city
+ORD00001,C009,P014,Protein Powder,Sports,2,54.99,0.0,109.98,0.0,109.98,2024-08-24,completed,credit_card,London
+ORD00002,C029,P018,Kindle E-Reader,Electronics,1,129.99,0.0,129.99,0.0,129.99,2024-11-29,cancelled,credit_card,Paris
+ORD00003,C006,P008,Air Fryer,Home & Kitchen,2,69.99,0.05,139.98,7.0,132.98,2024-09-05,pending,debit_card,Cairo
+ORD00004,C026,P002,Running Shoes,Sports,2,59.99,0.05,119.98,6.0,113.98,2024-01-02,pending,paypal,Lagos
+ORD00005,C030,P010,Smart Watch,Electronics,4,199.99,0.15,799.96,119.99,679.97,2024-10-11,pending,debit_card,Cairo
+ORD00006,C013,P010,Smart Watch,Electronics,2,199.99,0.0,399.98,0.0,399.98,2024-10-23,cancelled,credit_card,Johannesburg
+ORD00007,C048,P011,Running Shorts,Sports,1,24.99,0.0,24.99,0.0,24.99,2024-10-26,pending,debit_card,Paris
+ORD00008,C004,P017,French Press,Home & Kitchen,1,27.99,0.0,27.99,0.0,27.99,2024-02-05,cancelled,credit_card,Amsterdam
+ORD00009,C044,P008,Air Fryer,Home & Kitchen,4,69.99,0.0,279.96,0.0,279.96,2024-10-18,completed,credit_card,London
+ORD00010,C040,P003,Python Programming,Books,4,39.99,0.15,159.96,23.99,135.97,2024-10-25,cancelled,paypal,London
+ORD00011,C017,P007,Winter Jacket,Clothing,3,89.99,0.0,269.97,0.0,269.97,2024-05-15,pending,debit_card,Paris
+ORD00012,C043,P010,Smart Watch,Electronics,4,199.99,0.0,799.96,0.0,799.96,2024-02-07,completed,mpesa,Nairobi
+ORD00013,C040,P019,Hiking Boots,Sports,1,99.99,0.0,99.99,0.0,99.99,2024-10-02,completed,paypal,London
+ORD00014,C009,P012,Desk Lamp,Home & Kitchen,1,34.99,0.0,34.99,0.0,34.99,2024-07-08,completed,debit_card,London
+ORD00015,C029,P018,Kindle E-Reader,Electronics,3,129.99,0.1,389.97,39.0,350.97,2024-11-30,cancelled,credit_card,Paris
+ORD00016,C043,P018,Kindle E-Reader,Electronics,3,129.99,0.15,389.97,58.5,331.47,2024-02-23,completed,paypal,Nairobi
+ORD00017,C008,P004,Coffee Maker,Home & Kitchen,5,49.99,0.0,249.95,0.0,249.95,2024-05-19,completed,debit_card,Lagos
+ORD00018,C046,P011,Running Shorts,Sports,2,24.99,0.15,49.98,7.5,42.48,2024-11-20,completed,mpesa,Berlin
+ORD00019,C017,P002,Running Shoes,Sports,1,59.99,0.15,59.99,9.0,50.99,2024-08-04,completed,credit_card,Paris
+ORD00020,C001,P011,Running Shorts,Sports,2,24.99,0.15,49.98,7.5,42.48,2024-05-14,completed,mpesa,Cairo
+ORD00021,C036,P014,Protein Powder,Sports,5,54.99,0.0,274.95,0.0,274.95,2024-02-27,completed,debit_card,Berlin
+ORD00022,C035,P002,Running Shoes,Sports,3,59.99,0.1,179.97,18.0,161.97,2024-10-09,completed,mpesa,Johannesburg
+ORD00023,C009,P002,Running Shoes,Sports,3,59.99,0.0,179.97,0.0,179.97,2024-01-21,completed,debit_card,London
+ORD00024,C044,P008,Air Fryer,Home & Kitchen,1,69.99,0.0,69.99,0.0,69.99,2024-10-13,pending,debit_card,London
+ORD00025,C016,P006,Bluetooth Speaker,Electronics,2,49.99,0.05,99.98,5.0,94.98,2024-01-13,completed,paypal,Accra
+ORD00026,C027,P008,Air Fryer,Home & Kitchen,3,69.99,0.0,209.97,0.0,209.97,2024-12-25,completed,mpesa,Amsterdam
+ORD00027,C003,P016,Linen Shirt,Clothing,2,34.99,0.0,69.98,0.0,69.98,2024-08-23,completed,paypal,Nairobi
+ORD00028,C015,P008,Air Fryer,Home & Kitchen,1,69.99,0.15,69.99,10.5,59.49,2024-04-08,pending,paypal,Cairo
+ORD00029,C018,P003,Python Programming,Books,3,39.99,0.0,119.97,0.0,119.97,2024-11-24,cancelled,mpesa,Nairobi
+ORD00030,C044,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-02-29,completed,debit_card,London
+ORD00031,C038,P009,Data Science Handbook,Books,1,44.99,0.0,44.99,0.0,44.99,2024-11-01,pending,paypal,Madrid
+ORD00032,C047,P011,Running Shorts,Sports,4,24.99,0.1,99.96,10.0,89.96,2024-09-18,completed,mpesa,Lagos
+ORD00033,C037,P007,Winter Jacket,Clothing,3,89.99,0.0,269.97,0.0,269.97,2024-12-28,pending,credit_card,Berlin
+ORD00034,C034,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-08-08,completed,paypal,Lagos
+ORD00035,C040,P011,Running Shorts,Sports,1,24.99,0.15,24.99,3.75,21.24,2024-06-02,cancelled,paypal,London
+ORD00036,C043,P014,Protein Powder,Sports,3,54.99,0.05,164.97,8.25,156.72,2024-12-22,completed,debit_card,Nairobi
+ORD00037,C013,P014,Protein Powder,Sports,4,54.99,0.15,219.96,32.99,186.97,2024-03-30,cancelled,paypal,Johannesburg
+ORD00038,C026,P018,Kindle E-Reader,Electronics,1,129.99,0.0,129.99,0.0,129.99,2024-05-26,completed,mpesa,Lagos
+ORD00039,C038,P020,Mechanical Keyboard,Electronics,3,149.99,0.05,449.97,22.5,427.47,2024-08-14,pending,debit_card,Madrid
+ORD00040,C033,P016,Linen Shirt,Clothing,2,34.99,0.15,69.98,10.5,59.48,2024-02-13,completed,paypal,Amsterdam
+ORD00041,C006,P008,Air Fryer,Home & Kitchen,3,69.99,0.0,209.97,0.0,209.97,2024-04-11,completed,credit_card,Cairo
+ORD00042,C003,P008,Air Fryer,Home & Kitchen,4,69.99,0.1,279.96,28.0,251.96,2024-02-07,pending,mpesa,Nairobi
+ORD00043,C041,P019,Hiking Boots,Sports,2,99.99,0.15,199.98,30.0,169.98,2024-12-22,pending,mpesa,Johannesburg
+ORD00044,C026,P008,Air Fryer,Home & Kitchen,2,69.99,0.15,139.98,21.0,118.98,2024-12-18,completed,credit_card,Lagos
+ORD00045,C050,P014,Protein Powder,Sports,2,54.99,0.0,109.98,0.0,109.98,2024-12-22,cancelled,mpesa,Johannesburg
+ORD00046,C004,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-08-21,completed,mpesa,Amsterdam
+ORD00047,C043,P017,French Press,Home & Kitchen,5,27.99,0.1,139.95,13.99,125.96,2024-06-11,pending,mpesa,Nairobi
+ORD00048,C036,P015,Laptop Stand,Electronics,2,39.99,0.15,79.98,12.0,67.98,2024-08-31,pending,paypal,Berlin
+ORD00049,C049,P008,Air Fryer,Home & Kitchen,3,69.99,0.1,209.97,21.0,188.97,2024-09-05,completed,paypal,Paris
+ORD00050,C029,P003,Python Programming,Books,3,39.99,0.0,119.97,0.0,119.97,2024-05-19,completed,paypal,Paris
+ORD00051,C035,P003,Python Programming,Books,2,39.99,0.0,79.98,0.0,79.98,2024-04-28,pending,debit_card,Johannesburg
+ORD00052,C046,P007,Winter Jacket,Clothing,1,89.99,0.05,89.99,4.5,85.49,2024-07-27,completed,mpesa,Berlin
+ORD00053,C027,P002,Running Shoes,Sports,2,59.99,0.05,119.98,6.0,113.98,2024-07-18,cancelled,credit_card,Amsterdam
+ORD00054,C049,P019,Hiking Boots,Sports,4,99.99,0.05,399.96,20.0,379.96,2024-01-04,completed,paypal,Paris
+ORD00055,C049,P013,Novel: The Algorithm,Books,4,14.99,0.1,59.96,6.0,53.96,2024-10-06,cancelled,debit_card,Paris
+ORD00056,C032,P008,Air Fryer,Home & Kitchen,3,69.99,0.05,209.97,10.5,199.47,2024-09-05,completed,mpesa,Johannesburg
+ORD00057,C022,P013,Novel: The Algorithm,Books,2,14.99,0.05,29.98,1.5,28.48,2024-03-06,cancelled,credit_card,Amsterdam
+ORD00058,C026,P019,Hiking Boots,Sports,5,99.99,0.15,499.95,74.99,424.96,2024-01-14,completed,mpesa,Lagos
+ORD00059,C009,P015,Laptop Stand,Electronics,2,39.99,0.0,79.98,0.0,79.98,2024-05-13,pending,paypal,London
+ORD00060,C014,P015,Laptop Stand,Electronics,3,39.99,0.0,119.97,0.0,119.97,2024-07-13,completed,mpesa,London
+ORD00061,C017,P003,Python Programming,Books,4,39.99,0.0,159.96,0.0,159.96,2024-10-03,completed,paypal,Paris
+ORD00062,C015,P003,Python Programming,Books,1,39.99,0.0,39.99,0.0,39.99,2024-05-06,completed,credit_card,Cairo
+ORD00063,C040,P005,Yoga Mat,Sports,2,29.99,0.0,59.98,0.0,59.98,2024-08-30,completed,debit_card,London
+ORD00064,C030,P009,Data Science Handbook,Books,3,44.99,0.0,134.97,0.0,134.97,2024-11-06,cancelled,credit_card,Cairo
+ORD00065,C050,P006,Bluetooth Speaker,Electronics,3,49.99,0.0,149.97,0.0,149.97,2024-10-23,completed,paypal,Johannesburg
+ORD00066,C037,P013,Novel: The Algorithm,Books,4,14.99,0.15,59.96,8.99,50.97,2024-04-11,completed,debit_card,Berlin
+ORD00067,C007,P010,Smart Watch,Electronics,5,199.99,0.0,999.95,0.0,999.95,2024-10-16,completed,paypal,Cairo
+ORD00068,C035,P014,Protein Powder,Sports,3,54.99,0.0,164.97,0.0,164.97,2024-09-16,completed,credit_card,Johannesburg
+ORD00069,C027,P016,Linen Shirt,Clothing,1,34.99,0.05,34.99,1.75,33.24,2024-07-04,pending,debit_card,Amsterdam
+ORD00070,C028,P006,Bluetooth Speaker,Electronics,5,49.99,0.15,249.95,37.49,212.46,2024-05-18,cancelled,mpesa,Amsterdam
+ORD00071,C030,P014,Protein Powder,Sports,5,54.99,0.0,274.95,0.0,274.95,2024-06-14,completed,credit_card,Cairo
+ORD00072,C018,P015,Laptop Stand,Electronics,2,39.99,0.05,79.98,4.0,75.98,2024-10-18,cancelled,mpesa,Nairobi
+ORD00073,C022,P001,Wireless Headphones,Electronics,4,79.99,0.0,319.96,0.0,319.96,2024-04-03,pending,debit_card,Amsterdam
+ORD00074,C023,P009,Data Science Handbook,Books,3,44.99,0.0,134.97,0.0,134.97,2024-11-01,completed,credit_card,Madrid
+ORD00075,C034,P007,Winter Jacket,Clothing,1,89.99,0.0,89.99,0.0,89.99,2024-07-27,pending,debit_card,Lagos
+ORD00076,C045,P016,Linen Shirt,Clothing,4,34.99,0.05,139.96,7.0,132.96,2024-01-09,completed,paypal,Berlin
+ORD00077,C015,P013,Novel: The Algorithm,Books,2,14.99,0.0,29.98,0.0,29.98,2024-12-05,cancelled,paypal,Cairo
+ORD00078,C031,P018,Kindle E-Reader,Electronics,5,129.99,0.0,649.95,0.0,649.95,2024-08-05,cancelled,paypal,Lagos
+ORD00079,C023,P015,Laptop Stand,Electronics,3,39.99,0.0,119.97,0.0,119.97,2024-05-08,completed,credit_card,Madrid
+ORD00080,C047,P007,Winter Jacket,Clothing,3,89.99,0.0,269.97,0.0,269.97,2024-10-01,completed,debit_card,Lagos
+ORD00081,C014,P016,Linen Shirt,Clothing,3,34.99,0.15,104.97,15.75,89.22,2024-10-28,cancelled,paypal,London
+ORD00082,C007,P007,Winter Jacket,Clothing,3,89.99,0.0,269.97,0.0,269.97,2024-07-03,completed,paypal,Cairo
+ORD00083,C001,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-01-24,completed,paypal,Cairo
+ORD00084,C045,P005,Yoga Mat,Sports,4,29.99,0.0,119.96,0.0,119.96,2024-01-07,cancelled,paypal,Berlin
+ORD00085,C031,P016,Linen Shirt,Clothing,4,34.99,0.0,139.96,0.0,139.96,2024-04-04,completed,paypal,Lagos
+ORD00086,C031,P004,Coffee Maker,Home & Kitchen,1,49.99,0.05,49.99,2.5,47.49,2024-09-08,completed,credit_card,Lagos
+ORD00087,C010,P005,Yoga Mat,Sports,5,29.99,0.0,149.95,0.0,149.95,2024-02-13,completed,credit_card,Berlin
+ORD00088,C036,P014,Protein Powder,Sports,5,54.99,0.1,274.95,27.5,247.45,2024-11-12,completed,mpesa,Berlin
+ORD00089,C029,P015,Laptop Stand,Electronics,3,39.99,0.1,119.97,12.0,107.97,2024-08-07,completed,credit_card,Paris
+ORD00090,C040,P004,Coffee Maker,Home & Kitchen,2,49.99,0.15,99.98,15.0,84.98,2024-04-18,completed,credit_card,London
+ORD00091,C011,P008,Air Fryer,Home & Kitchen,2,69.99,0.1,139.98,14.0,125.98,2024-02-08,completed,credit_card,Amsterdam
+ORD00092,C027,P015,Laptop Stand,Electronics,5,39.99,0.05,199.95,10.0,189.95,2024-05-29,completed,debit_card,Amsterdam
+ORD00093,C019,P010,Smart Watch,Electronics,4,199.99,0.0,799.96,0.0,799.96,2024-12-17,completed,paypal,Cairo
+ORD00094,C041,P019,Hiking Boots,Sports,2,99.99,0.05,199.98,10.0,189.98,2024-02-28,cancelled,debit_card,Johannesburg
+ORD00095,C042,P005,Yoga Mat,Sports,3,29.99,0.0,89.97,0.0,89.97,2024-02-06,completed,debit_card,Amsterdam
+ORD00096,C020,P020,Mechanical Keyboard,Electronics,5,149.99,0.0,749.95,0.0,749.95,2024-08-12,completed,mpesa,London
+ORD00097,C045,P010,Smart Watch,Electronics,4,199.99,0.0,799.96,0.0,799.96,2024-09-13,cancelled,mpesa,Berlin
+ORD00098,C029,P003,Python Programming,Books,5,39.99,0.0,199.95,0.0,199.95,2024-08-09,completed,paypal,Paris
+ORD00099,C002,P003,Python Programming,Books,2,39.99,0.15,79.98,12.0,67.98,2024-10-21,cancelled,credit_card,Lagos
+ORD00100,C049,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-03-30,pending,mpesa,Paris
+ORD00101,C018,P006,Bluetooth Speaker,Electronics,5,49.99,0.05,249.95,12.5,237.45,2024-11-21,pending,credit_card,Nairobi
+ORD00102,C031,P012,Desk Lamp,Home & Kitchen,4,34.99,0.0,139.96,0.0,139.96,2024-06-13,completed,debit_card,Lagos
+ORD00103,C022,P014,Protein Powder,Sports,4,54.99,0.0,219.96,0.0,219.96,2024-12-05,pending,credit_card,Amsterdam
+ORD00104,C030,P003,Python Programming,Books,3,39.99,0.0,119.97,0.0,119.97,2024-06-14,completed,mpesa,Cairo
+ORD00105,C033,P001,Wireless Headphones,Electronics,5,79.99,0.05,399.95,20.0,379.95,2024-07-30,completed,debit_card,Amsterdam
+ORD00106,C034,P012,Desk Lamp,Home & Kitchen,5,34.99,0.05,174.95,8.75,166.2,2024-11-16,pending,credit_card,Lagos
+ORD00107,C014,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-05-27,pending,mpesa,London
+ORD00108,C008,P001,Wireless Headphones,Electronics,5,79.99,0.0,399.95,0.0,399.95,2024-12-29,completed,paypal,Lagos
+ORD00109,C036,P001,Wireless Headphones,Electronics,5,79.99,0.05,399.95,20.0,379.95,2024-02-17,completed,credit_card,Berlin
+ORD00110,C030,P004,Coffee Maker,Home & Kitchen,2,49.99,0.05,99.98,5.0,94.98,2024-05-29,cancelled,paypal,Cairo
+ORD00111,C027,P016,Linen Shirt,Clothing,4,34.99,0.0,139.96,0.0,139.96,2024-08-21,cancelled,debit_card,Amsterdam
+ORD00112,C025,P007,Winter Jacket,Clothing,5,89.99,0.1,449.95,45.0,404.95,2024-03-10,completed,paypal,Lagos
+ORD00113,C050,P014,Protein Powder,Sports,3,54.99,0.1,164.97,16.5,148.47,2024-05-16,completed,paypal,Johannesburg
+ORD00114,C047,P010,Smart Watch,Electronics,5,199.99,0.1,999.95,100.0,899.95,2024-12-03,pending,debit_card,Lagos
+ORD00115,C029,P018,Kindle E-Reader,Electronics,4,129.99,0.0,519.96,0.0,519.96,2024-06-19,cancelled,mpesa,Paris
+ORD00116,C030,P011,Running Shorts,Sports,2,24.99,0.15,49.98,7.5,42.48,2024-05-02,cancelled,mpesa,Cairo
+ORD00117,C015,P014,Protein Powder,Sports,1,54.99,0.0,54.99,0.0,54.99,2024-08-30,pending,mpesa,Cairo
+ORD00118,C043,P005,Yoga Mat,Sports,4,29.99,0.0,119.96,0.0,119.96,2024-03-05,cancelled,paypal,Nairobi
+ORD00119,C007,P015,Laptop Stand,Electronics,1,39.99,0.1,39.99,4.0,35.99,2024-08-21,completed,debit_card,Cairo
+ORD00120,C027,P005,Yoga Mat,Sports,1,29.99,0.05,29.99,1.5,28.49,2024-05-15,completed,mpesa,Amsterdam
+ORD00121,C042,P003,Python Programming,Books,3,39.99,0.15,119.97,18.0,101.97,2024-09-30,pending,paypal,Amsterdam
+ORD00122,C041,P016,Linen Shirt,Clothing,5,34.99,0.0,174.95,0.0,174.95,2024-11-12,completed,debit_card,Johannesburg
+ORD00123,C041,P010,Smart Watch,Electronics,2,199.99,0.15,399.98,60.0,339.98,2024-02-16,pending,credit_card,Johannesburg
+ORD00124,C049,P004,Coffee Maker,Home & Kitchen,4,49.99,0.0,199.96,0.0,199.96,2024-12-21,completed,credit_card,Paris
+ORD00125,C003,P011,Running Shorts,Sports,1,24.99,0.0,24.99,0.0,24.99,2024-07-02,completed,mpesa,Nairobi
+ORD00126,C010,P008,Air Fryer,Home & Kitchen,5,69.99,0.05,349.95,17.5,332.45,2024-10-16,completed,debit_card,Berlin
+ORD00127,C012,P003,Python Programming,Books,5,39.99,0.05,199.95,10.0,189.95,2024-11-13,completed,mpesa,Lagos
+ORD00128,C038,P005,Yoga Mat,Sports,2,29.99,0.05,59.98,3.0,56.98,2024-11-22,completed,mpesa,Madrid
+ORD00129,C017,P001,Wireless Headphones,Electronics,4,79.99,0.0,319.96,0.0,319.96,2024-12-12,cancelled,debit_card,Paris
+ORD00130,C005,P015,Laptop Stand,Electronics,3,39.99,0.1,119.97,12.0,107.97,2024-06-02,pending,paypal,Amsterdam
+ORD00131,C030,P010,Smart Watch,Electronics,2,199.99,0.05,399.98,20.0,379.98,2024-09-04,completed,debit_card,Cairo
+ORD00132,C025,P019,Hiking Boots,Sports,3,99.99,0.1,299.97,30.0,269.97,2024-05-31,completed,credit_card,Lagos
+ORD00133,C043,P013,Novel: The Algorithm,Books,3,14.99,0.0,44.97,0.0,44.97,2024-10-16,completed,mpesa,Nairobi
+ORD00134,C019,P008,Air Fryer,Home & Kitchen,5,69.99,0.0,349.95,0.0,349.95,2024-04-22,completed,paypal,Cairo
+ORD00135,C044,P005,Yoga Mat,Sports,1,29.99,0.15,29.99,4.5,25.49,2024-11-26,completed,paypal,London
+ORD00136,C029,P002,Running Shoes,Sports,5,59.99,0.0,299.95,0.0,299.95,2024-03-08,completed,paypal,Paris
+ORD00137,C021,P014,Protein Powder,Sports,2,54.99,0.0,109.98,0.0,109.98,2024-03-08,cancelled,paypal,Berlin
+ORD00138,C034,P017,French Press,Home & Kitchen,3,27.99,0.0,83.97,0.0,83.97,2024-05-11,pending,paypal,Lagos
+ORD00139,C048,P011,Running Shorts,Sports,1,24.99,0.05,24.99,1.25,23.74,2024-02-08,completed,debit_card,Paris
+ORD00140,C044,P013,Novel: The Algorithm,Books,5,14.99,0.0,74.95,0.0,74.95,2024-02-16,pending,credit_card,London
+ORD00141,C017,P018,Kindle E-Reader,Electronics,1,129.99,0.05,129.99,6.5,123.49,2024-07-07,completed,mpesa,Paris
+ORD00142,C041,P012,Desk Lamp,Home & Kitchen,1,34.99,0.15,34.99,5.25,29.74,2024-04-29,pending,credit_card,Johannesburg
+ORD00143,C040,P018,Kindle E-Reader,Electronics,3,129.99,0.1,389.97,39.0,350.97,2024-04-23,completed,mpesa,London
+ORD00144,C045,P010,Smart Watch,Electronics,4,199.99,0.0,799.96,0.0,799.96,2024-03-12,completed,credit_card,Berlin
+ORD00145,C020,P016,Linen Shirt,Clothing,1,34.99,0.0,34.99,0.0,34.99,2024-04-30,cancelled,debit_card,London
+ORD00146,C025,P015,Laptop Stand,Electronics,3,39.99,0.15,119.97,18.0,101.97,2024-12-22,cancelled,mpesa,Lagos
+ORD00147,C038,P005,Yoga Mat,Sports,4,29.99,0.15,119.96,17.99,101.97,2024-02-20,pending,mpesa,Madrid
+ORD00148,C018,P002,Running Shoes,Sports,3,59.99,0.0,179.97,0.0,179.97,2024-08-15,pending,debit_card,Nairobi
+ORD00149,C024,P004,Coffee Maker,Home & Kitchen,3,49.99,0.1,149.97,15.0,134.97,2024-11-26,completed,credit_card,Amsterdam
+ORD00150,C026,P009,Data Science Handbook,Books,2,44.99,0.0,89.98,0.0,89.98,2024-08-20,completed,debit_card,Lagos
+ORD00151,C042,P020,Mechanical Keyboard,Electronics,1,149.99,0.0,149.99,0.0,149.99,2024-06-19,completed,debit_card,Amsterdam
+ORD00152,C037,P007,Winter Jacket,Clothing,1,89.99,0.1,89.99,9.0,80.99,2024-04-16,cancelled,debit_card,Berlin
+ORD00153,C015,P011,Running Shorts,Sports,2,24.99,0.1,49.98,5.0,44.98,2024-01-02,completed,debit_card,Cairo
+ORD00154,C009,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-02-26,completed,debit_card,London
+ORD00155,C001,P012,Desk Lamp,Home & Kitchen,2,34.99,0.1,69.98,7.0,62.98,2024-06-14,completed,debit_card,Cairo
+ORD00156,C017,P002,Running Shoes,Sports,2,59.99,0.15,119.98,18.0,101.98,2024-08-03,cancelled,credit_card,Paris
+ORD00157,C048,P003,Python Programming,Books,4,39.99,0.05,159.96,8.0,151.96,2024-07-04,cancelled,credit_card,Paris
+ORD00158,C029,P017,French Press,Home & Kitchen,2,27.99,0.1,55.98,5.6,50.38,2024-01-23,cancelled,paypal,Paris
+ORD00159,C030,P001,Wireless Headphones,Electronics,1,79.99,0.05,79.99,4.0,75.99,2024-07-24,pending,credit_card,Cairo
+ORD00160,C032,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-06-13,cancelled,debit_card,Johannesburg
+ORD00161,C005,P005,Yoga Mat,Sports,3,29.99,0.1,89.97,9.0,80.97,2024-11-20,cancelled,paypal,Amsterdam
+ORD00162,C025,P020,Mechanical Keyboard,Electronics,5,149.99,0.0,749.95,0.0,749.95,2024-08-20,cancelled,mpesa,Lagos
+ORD00163,C007,P004,Coffee Maker,Home & Kitchen,5,49.99,0.15,249.95,37.49,212.46,2024-04-20,pending,mpesa,Cairo
+ORD00164,C015,P014,Protein Powder,Sports,3,54.99,0.05,164.97,8.25,156.72,2024-07-23,pending,credit_card,Cairo
+ORD00165,C021,P014,Protein Powder,Sports,3,54.99,0.15,164.97,24.75,140.22,2024-05-10,completed,debit_card,Berlin
+ORD00166,C044,P016,Linen Shirt,Clothing,1,34.99,0.0,34.99,0.0,34.99,2024-02-13,completed,mpesa,London
+ORD00167,C007,P012,Desk Lamp,Home & Kitchen,2,34.99,0.1,69.98,7.0,62.98,2024-01-31,cancelled,paypal,Cairo
+ORD00168,C043,P004,Coffee Maker,Home & Kitchen,4,49.99,0.0,199.96,0.0,199.96,2024-12-06,pending,credit_card,Nairobi
+ORD00169,C019,P020,Mechanical Keyboard,Electronics,3,149.99,0.0,449.97,0.0,449.97,2024-02-23,cancelled,debit_card,Cairo
+ORD00170,C010,P016,Linen Shirt,Clothing,2,34.99,0.0,69.98,0.0,69.98,2024-06-28,cancelled,paypal,Berlin
+ORD00171,C008,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-08-07,cancelled,credit_card,Lagos
+ORD00172,C039,P009,Data Science Handbook,Books,1,44.99,0.0,44.99,0.0,44.99,2024-05-19,completed,paypal,Johannesburg
+ORD00173,C023,P001,Wireless Headphones,Electronics,2,79.99,0.0,159.98,0.0,159.98,2024-10-16,pending,credit_card,Madrid
+ORD00174,C010,P001,Wireless Headphones,Electronics,1,79.99,0.15,79.99,12.0,67.99,2024-09-28,completed,mpesa,Berlin
+ORD00175,C027,P015,Laptop Stand,Electronics,3,39.99,0.0,119.97,0.0,119.97,2024-07-08,completed,paypal,Amsterdam
+ORD00176,C050,P019,Hiking Boots,Sports,5,99.99,0.0,499.95,0.0,499.95,2024-01-27,completed,debit_card,Johannesburg
+ORD00177,C049,P020,Mechanical Keyboard,Electronics,1,149.99,0.15,149.99,22.5,127.49,2024-02-11,completed,mpesa,Paris
+ORD00178,C043,P014,Protein Powder,Sports,4,54.99,0.1,219.96,22.0,197.96,2024-08-14,pending,paypal,Nairobi
+ORD00179,C014,P017,French Press,Home & Kitchen,1,27.99,0.0,27.99,0.0,27.99,2024-08-08,completed,paypal,London
+ORD00180,C044,P019,Hiking Boots,Sports,4,99.99,0.1,399.96,40.0,359.96,2024-12-07,completed,credit_card,London
+ORD00181,C015,P013,Novel: The Algorithm,Books,5,14.99,0.0,74.95,0.0,74.95,2024-01-04,completed,paypal,Cairo
+ORD00182,C014,P005,Yoga Mat,Sports,3,29.99,0.0,89.97,0.0,89.97,2024-06-16,completed,credit_card,London
+ORD00183,C032,P014,Protein Powder,Sports,2,54.99,0.0,109.98,0.0,109.98,2024-07-13,cancelled,debit_card,Johannesburg
+ORD00184,C033,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-07-22,completed,mpesa,Amsterdam
+ORD00185,C002,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-10-21,pending,mpesa,Lagos
+ORD00186,C046,P014,Protein Powder,Sports,3,54.99,0.0,164.97,0.0,164.97,2024-07-26,completed,paypal,Berlin
+ORD00187,C011,P020,Mechanical Keyboard,Electronics,4,149.99,0.15,599.96,89.99,509.97,2024-07-04,completed,mpesa,Amsterdam
+ORD00188,C007,P008,Air Fryer,Home & Kitchen,4,69.99,0.1,279.96,28.0,251.96,2024-07-24,cancelled,credit_card,Cairo
+ORD00189,C026,P010,Smart Watch,Electronics,3,199.99,0.0,599.97,0.0,599.97,2024-06-19,completed,credit_card,Lagos
+ORD00190,C033,P004,Coffee Maker,Home & Kitchen,5,49.99,0.1,249.95,25.0,224.95,2024-04-09,completed,paypal,Amsterdam
+ORD00191,C047,P005,Yoga Mat,Sports,2,29.99,0.0,59.98,0.0,59.98,2024-03-15,completed,debit_card,Lagos
+ORD00192,C012,P020,Mechanical Keyboard,Electronics,2,149.99,0.15,299.98,45.0,254.98,2024-02-08,completed,mpesa,Lagos
+ORD00193,C030,P019,Hiking Boots,Sports,5,99.99,0.05,499.95,25.0,474.95,2024-12-14,cancelled,paypal,Cairo
+ORD00194,C041,P011,Running Shorts,Sports,2,24.99,0.05,49.98,2.5,47.48,2024-02-04,pending,mpesa,Johannesburg
+ORD00195,C041,P010,Smart Watch,Electronics,3,199.99,0.1,599.97,60.0,539.97,2024-01-29,completed,credit_card,Johannesburg
+ORD00196,C020,P015,Laptop Stand,Electronics,4,39.99,0.0,159.96,0.0,159.96,2024-01-30,completed,paypal,London
+ORD00197,C005,P003,Python Programming,Books,5,39.99,0.1,199.95,20.0,179.95,2024-09-16,pending,mpesa,Amsterdam
+ORD00198,C038,P018,Kindle E-Reader,Electronics,1,129.99,0.05,129.99,6.5,123.49,2024-10-19,completed,paypal,Madrid
+ORD00199,C039,P016,Linen Shirt,Clothing,5,34.99,0.0,174.95,0.0,174.95,2024-02-01,pending,credit_card,Johannesburg
+ORD00200,C022,P003,Python Programming,Books,5,39.99,0.15,199.95,29.99,169.96,2024-03-29,completed,debit_card,Amsterdam
+ORD00201,C046,P015,Laptop Stand,Electronics,4,39.99,0.1,159.96,16.0,143.96,2024-09-24,cancelled,debit_card,Berlin
+ORD00202,C024,P012,Desk Lamp,Home & Kitchen,3,34.99,0.05,104.97,5.25,99.72,2024-07-28,completed,credit_card,Amsterdam
+ORD00203,C041,P011,Running Shorts,Sports,1,24.99,0.0,24.99,0.0,24.99,2024-02-18,cancelled,mpesa,Johannesburg
+ORD00204,C019,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-06-19,completed,debit_card,Cairo
+ORD00205,C023,P010,Smart Watch,Electronics,4,199.99,0.0,799.96,0.0,799.96,2024-10-31,completed,paypal,Madrid
+ORD00206,C036,P013,Novel: The Algorithm,Books,3,14.99,0.0,44.97,0.0,44.97,2024-12-09,cancelled,credit_card,Berlin
+ORD00207,C042,P014,Protein Powder,Sports,5,54.99,0.0,274.95,0.0,274.95,2024-01-10,completed,paypal,Amsterdam
+ORD00208,C012,P007,Winter Jacket,Clothing,3,89.99,0.05,269.97,13.5,256.47,2024-04-08,completed,debit_card,Lagos
+ORD00209,C010,P003,Python Programming,Books,3,39.99,0.0,119.97,0.0,119.97,2024-09-16,cancelled,credit_card,Berlin
+ORD00210,C043,P011,Running Shorts,Sports,5,24.99,0.0,124.95,0.0,124.95,2024-11-01,pending,debit_card,Nairobi
+ORD00211,C011,P006,Bluetooth Speaker,Electronics,5,49.99,0.0,249.95,0.0,249.95,2024-08-12,completed,mpesa,Amsterdam
+ORD00212,C024,P008,Air Fryer,Home & Kitchen,4,69.99,0.1,279.96,28.0,251.96,2024-05-25,pending,debit_card,Amsterdam
+ORD00213,C035,P008,Air Fryer,Home & Kitchen,3,69.99,0.05,209.97,10.5,199.47,2024-04-09,completed,mpesa,Johannesburg
+ORD00214,C030,P010,Smart Watch,Electronics,4,199.99,0.1,799.96,80.0,719.96,2024-09-27,pending,debit_card,Cairo
+ORD00215,C013,P020,Mechanical Keyboard,Electronics,2,149.99,0.0,299.98,0.0,299.98,2024-01-27,pending,paypal,Johannesburg
+ORD00216,C036,P004,Coffee Maker,Home & Kitchen,5,49.99,0.0,249.95,0.0,249.95,2024-05-25,completed,debit_card,Berlin
+ORD00217,C018,P015,Laptop Stand,Electronics,5,39.99,0.0,199.95,0.0,199.95,2024-08-11,completed,debit_card,Nairobi
+ORD00218,C029,P012,Desk Lamp,Home & Kitchen,1,34.99,0.05,34.99,1.75,33.24,2024-01-28,pending,paypal,Paris
+ORD00219,C016,P013,Novel: The Algorithm,Books,1,14.99,0.0,14.99,0.0,14.99,2024-04-24,completed,paypal,Accra
+ORD00220,C007,P011,Running Shorts,Sports,2,24.99,0.0,49.98,0.0,49.98,2024-01-20,completed,mpesa,Cairo
+ORD00221,C045,P005,Yoga Mat,Sports,4,29.99,0.05,119.96,6.0,113.96,2024-11-11,completed,credit_card,Berlin
+ORD00222,C002,P009,Data Science Handbook,Books,2,44.99,0.0,89.98,0.0,89.98,2024-10-07,cancelled,mpesa,Lagos
+ORD00223,C008,P010,Smart Watch,Electronics,2,199.99,0.0,399.98,0.0,399.98,2024-03-03,completed,debit_card,Lagos
+ORD00224,C027,P020,Mechanical Keyboard,Electronics,4,149.99,0.0,599.96,0.0,599.96,2024-02-26,pending,credit_card,Amsterdam
+ORD00225,C041,P017,French Press,Home & Kitchen,5,27.99,0.0,139.95,0.0,139.95,2024-03-14,completed,mpesa,Johannesburg
+ORD00226,C001,P020,Mechanical Keyboard,Electronics,3,149.99,0.0,449.97,0.0,449.97,2024-10-19,pending,debit_card,Cairo
+ORD00227,C043,P003,Python Programming,Books,5,39.99,0.0,199.95,0.0,199.95,2024-02-04,cancelled,credit_card,Nairobi
+ORD00228,C025,P016,Linen Shirt,Clothing,1,34.99,0.15,34.99,5.25,29.74,2024-07-17,completed,paypal,Lagos
+ORD00229,C048,P001,Wireless Headphones,Electronics,3,79.99,0.0,239.97,0.0,239.97,2024-06-25,completed,credit_card,Paris
+ORD00230,C050,P019,Hiking Boots,Sports,3,99.99,0.0,299.97,0.0,299.97,2024-01-23,completed,paypal,Johannesburg
+ORD00231,C042,P006,Bluetooth Speaker,Electronics,4,49.99,0.15,199.96,29.99,169.97,2024-09-02,completed,debit_card,Amsterdam
+ORD00232,C005,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-04-13,completed,debit_card,Amsterdam
+ORD00233,C003,P011,Running Shorts,Sports,3,24.99,0.1,74.97,7.5,67.47,2024-07-22,cancelled,mpesa,Nairobi
+ORD00234,C017,P002,Running Shoes,Sports,2,59.99,0.0,119.98,0.0,119.98,2024-07-01,completed,paypal,Paris
+ORD00235,C018,P004,Coffee Maker,Home & Kitchen,3,49.99,0.05,149.97,7.5,142.47,2024-07-23,pending,mpesa,Nairobi
+ORD00236,C022,P006,Bluetooth Speaker,Electronics,4,49.99,0.15,199.96,29.99,169.97,2024-09-11,completed,paypal,Amsterdam
+ORD00237,C006,P014,Protein Powder,Sports,1,54.99,0.05,54.99,2.75,52.24,2024-11-04,completed,paypal,Cairo
+ORD00238,C021,P004,Coffee Maker,Home & Kitchen,1,49.99,0.0,49.99,0.0,49.99,2024-12-04,completed,paypal,Berlin
+ORD00239,C029,P020,Mechanical Keyboard,Electronics,4,149.99,0.0,599.96,0.0,599.96,2024-12-19,pending,paypal,Paris
+ORD00240,C029,P002,Running Shoes,Sports,3,59.99,0.1,179.97,18.0,161.97,2024-08-10,completed,credit_card,Paris
+ORD00241,C005,P013,Novel: The Algorithm,Books,3,14.99,0.1,44.97,4.5,40.47,2024-12-13,completed,credit_card,Amsterdam
+ORD00242,C010,P020,Mechanical Keyboard,Electronics,4,149.99,0.0,599.96,0.0,599.96,2024-03-05,completed,debit_card,Berlin
+ORD00243,C050,P012,Desk Lamp,Home & Kitchen,3,34.99,0.05,104.97,5.25,99.72,2024-10-17,completed,debit_card,Johannesburg
+ORD00244,C044,P015,Laptop Stand,Electronics,3,39.99,0.0,119.97,0.0,119.97,2024-08-15,completed,debit_card,London
+ORD00245,C034,P012,Desk Lamp,Home & Kitchen,4,34.99,0.0,139.96,0.0,139.96,2024-11-28,completed,debit_card,Lagos
+ORD00246,C008,P001,Wireless Headphones,Electronics,2,79.99,0.05,159.98,8.0,151.98,2024-09-22,pending,credit_card,Lagos
+ORD00247,C017,P009,Data Science Handbook,Books,4,44.99,0.0,179.96,0.0,179.96,2024-11-09,completed,mpesa,Paris
+ORD00248,C013,P004,Coffee Maker,Home & Kitchen,2,49.99,0.0,99.98,0.0,99.98,2024-08-19,completed,mpesa,Johannesburg
+ORD00249,C006,P011,Running Shorts,Sports,3,24.99,0.15,74.97,11.25,63.72,2024-02-03,cancelled,paypal,Cairo
+ORD00250,C020,P006,Bluetooth Speaker,Electronics,2,49.99,0.0,99.98,0.0,99.98,2024-09-17,completed,credit_card,London
+ORD00251,C013,P005,Yoga Mat,Sports,2,29.99,0.05,59.98,3.0,56.98,2024-01-14,completed,paypal,Johannesburg
+ORD00252,C030,P018,Kindle E-Reader,Electronics,2,129.99,0.1,259.98,26.0,233.98,2024-02-14,completed,paypal,Cairo
+ORD00253,C026,P016,Linen Shirt,Clothing,5,34.99,0.05,174.95,8.75,166.2,2024-07-28,cancelled,credit_card,Lagos
+ORD00254,C009,P011,Running Shorts,Sports,1,24.99,0.05,24.99,1.25,23.74,2024-08-26,cancelled,paypal,London
+ORD00255,C009,P018,Kindle E-Reader,Electronics,5,129.99,0.0,649.95,0.0,649.95,2024-03-07,pending,credit_card,London
+ORD00256,C008,P017,French Press,Home & Kitchen,2,27.99,0.0,55.98,0.0,55.98,2024-03-25,completed,paypal,Lagos
+ORD00257,C046,P008,Air Fryer,Home & Kitchen,3,69.99,0.1,209.97,21.0,188.97,2024-05-25,completed,paypal,Berlin
+ORD00258,C013,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-11-16,completed,credit_card,Johannesburg
+ORD00259,C033,P006,Bluetooth Speaker,Electronics,5,49.99,0.1,249.95,25.0,224.95,2024-03-19,completed,paypal,Amsterdam
+ORD00260,C037,P002,Running Shoes,Sports,1,59.99,0.0,59.99,0.0,59.99,2024-01-24,cancelled,paypal,Berlin
+ORD00261,C042,P007,Winter Jacket,Clothing,5,89.99,0.05,449.95,22.5,427.45,2024-11-12,completed,mpesa,Amsterdam
+ORD00262,C041,P018,Kindle E-Reader,Electronics,3,129.99,0.15,389.97,58.5,331.47,2024-06-03,pending,debit_card,Johannesburg
+ORD00263,C044,P013,Novel: The Algorithm,Books,3,14.99,0.05,44.97,2.25,42.72,2024-02-07,completed,debit_card,London
+ORD00264,C029,P014,Protein Powder,Sports,4,54.99,0.05,219.96,11.0,208.96,2024-04-14,completed,debit_card,Paris
+ORD00265,C021,P011,Running Shorts,Sports,3,24.99,0.05,74.97,3.75,71.22,2024-03-07,completed,credit_card,Berlin
+ORD00266,C021,P008,Air Fryer,Home & Kitchen,4,69.99,0.0,279.96,0.0,279.96,2024-05-16,pending,debit_card,Berlin
+ORD00267,C010,P004,Coffee Maker,Home & Kitchen,1,49.99,0.0,49.99,0.0,49.99,2024-07-15,cancelled,mpesa,Berlin
+ORD00268,C016,P006,Bluetooth Speaker,Electronics,3,49.99,0.1,149.97,15.0,134.97,2024-06-09,completed,debit_card,Accra
+ORD00269,C032,P017,French Press,Home & Kitchen,4,27.99,0.05,111.96,5.6,106.36,2024-06-06,pending,credit_card,Johannesburg
+ORD00270,C006,P013,Novel: The Algorithm,Books,5,14.99,0.05,74.95,3.75,71.2,2024-05-03,completed,paypal,Cairo
+ORD00271,C004,P002,Running Shoes,Sports,3,59.99,0.05,179.97,9.0,170.97,2024-11-01,pending,paypal,Amsterdam
+ORD00272,C035,P001,Wireless Headphones,Electronics,1,79.99,0.05,79.99,4.0,75.99,2024-03-09,completed,paypal,Johannesburg
+ORD00273,C049,P013,Novel: The Algorithm,Books,3,14.99,0.0,44.97,0.0,44.97,2024-07-24,completed,debit_card,Paris
+ORD00274,C024,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-07-16,cancelled,mpesa,Amsterdam
+ORD00275,C049,P018,Kindle E-Reader,Electronics,3,129.99,0.1,389.97,39.0,350.97,2024-12-14,cancelled,credit_card,Paris
+ORD00276,C009,P004,Coffee Maker,Home & Kitchen,4,49.99,0.0,199.96,0.0,199.96,2024-06-22,cancelled,paypal,London
+ORD00277,C049,P005,Yoga Mat,Sports,2,29.99,0.1,59.98,6.0,53.98,2024-09-17,pending,credit_card,Paris
+ORD00278,C003,P002,Running Shoes,Sports,2,59.99,0.15,119.98,18.0,101.98,2024-06-19,pending,mpesa,Nairobi
+ORD00279,C010,P020,Mechanical Keyboard,Electronics,5,149.99,0.0,749.95,0.0,749.95,2024-06-16,cancelled,paypal,Berlin
+ORD00280,C011,P013,Novel: The Algorithm,Books,5,14.99,0.15,74.95,11.24,63.71,2024-06-02,cancelled,paypal,Amsterdam
+ORD00281,C033,P017,French Press,Home & Kitchen,5,27.99,0.05,139.95,7.0,132.95,2024-12-28,cancelled,paypal,Amsterdam
+ORD00282,C031,P001,Wireless Headphones,Electronics,3,79.99,0.0,239.97,0.0,239.97,2024-12-10,completed,mpesa,Lagos
+ORD00283,C038,P010,Smart Watch,Electronics,1,199.99,0.1,199.99,20.0,179.99,2024-08-30,completed,debit_card,Madrid
+ORD00284,C047,P002,Running Shoes,Sports,5,59.99,0.05,299.95,15.0,284.95,2024-03-28,cancelled,mpesa,Lagos
+ORD00285,C010,P008,Air Fryer,Home & Kitchen,1,69.99,0.1,69.99,7.0,62.99,2024-12-24,completed,debit_card,Berlin
+ORD00286,C002,P015,Laptop Stand,Electronics,3,39.99,0.05,119.97,6.0,113.97,2024-03-18,pending,debit_card,Lagos
+ORD00287,C027,P017,French Press,Home & Kitchen,5,27.99,0.05,139.95,7.0,132.95,2024-02-01,completed,debit_card,Amsterdam
+ORD00288,C036,P011,Running Shorts,Sports,4,24.99,0.1,99.96,10.0,89.96,2024-07-11,completed,debit_card,Berlin
+ORD00289,C030,P018,Kindle E-Reader,Electronics,3,129.99,0.1,389.97,39.0,350.97,2024-06-30,completed,mpesa,Cairo
+ORD00290,C013,P008,Air Fryer,Home & Kitchen,3,69.99,0.1,209.97,21.0,188.97,2024-06-01,completed,paypal,Johannesburg
+ORD00291,C050,P010,Smart Watch,Electronics,2,199.99,0.15,399.98,60.0,339.98,2024-12-26,pending,paypal,Johannesburg
+ORD00292,C031,P012,Desk Lamp,Home & Kitchen,5,34.99,0.15,174.95,26.24,148.71,2024-05-20,completed,credit_card,Lagos
+ORD00293,C037,P018,Kindle E-Reader,Electronics,4,129.99,0.05,519.96,26.0,493.96,2024-06-25,completed,paypal,Berlin
+ORD00294,C003,P010,Smart Watch,Electronics,1,199.99,0.0,199.99,0.0,199.99,2024-08-14,completed,mpesa,Nairobi
+ORD00295,C014,P007,Winter Jacket,Clothing,5,89.99,0.0,449.95,0.0,449.95,2024-10-14,completed,debit_card,London
+ORD00296,C007,P020,Mechanical Keyboard,Electronics,5,149.99,0.0,749.95,0.0,749.95,2024-05-04,completed,debit_card,Cairo
+ORD00297,C041,P008,Air Fryer,Home & Kitchen,1,69.99,0.0,69.99,0.0,69.99,2024-07-30,completed,mpesa,Johannesburg
+ORD00298,C007,P005,Yoga Mat,Sports,1,29.99,0.1,29.99,3.0,26.99,2024-03-21,pending,mpesa,Cairo
+ORD00299,C031,P007,Winter Jacket,Clothing,3,89.99,0.0,269.97,0.0,269.97,2024-05-26,completed,credit_card,Lagos
+ORD00300,C042,P019,Hiking Boots,Sports,2,99.99,0.1,199.98,20.0,179.98,2024-01-20,completed,mpesa,Amsterdam
+ORD00301,C012,P002,Running Shoes,Sports,4,59.99,0.05,239.96,12.0,227.96,2024-04-05,completed,credit_card,Lagos
+ORD00302,C001,P010,Smart Watch,Electronics,5,199.99,0.1,999.95,100.0,899.95,2024-02-24,completed,paypal,Cairo
+ORD00303,C030,P018,Kindle E-Reader,Electronics,5,129.99,0.05,649.95,32.5,617.45,2024-03-09,cancelled,mpesa,Cairo
+ORD00304,C018,P007,Winter Jacket,Clothing,1,89.99,0.0,89.99,0.0,89.99,2024-03-24,pending,paypal,Nairobi
+ORD00305,C046,P006,Bluetooth Speaker,Electronics,1,49.99,0.15,49.99,7.5,42.49,2024-06-21,completed,debit_card,Berlin
+ORD00306,C012,P020,Mechanical Keyboard,Electronics,4,149.99,0.05,599.96,30.0,569.96,2024-09-20,completed,credit_card,Lagos
+ORD00307,C026,P004,Coffee Maker,Home & Kitchen,2,49.99,0.0,99.98,0.0,99.98,2024-09-01,completed,debit_card,Lagos
+ORD00308,C001,P009,Data Science Handbook,Books,4,44.99,0.0,179.96,0.0,179.96,2024-08-16,completed,paypal,Cairo
+ORD00309,C020,P019,Hiking Boots,Sports,5,99.99,0.0,499.95,0.0,499.95,2024-05-13,completed,debit_card,London
+ORD00310,C004,P004,Coffee Maker,Home & Kitchen,4,49.99,0.0,199.96,0.0,199.96,2024-03-22,pending,paypal,Amsterdam
+ORD00311,C045,P004,Coffee Maker,Home & Kitchen,3,49.99,0.0,149.97,0.0,149.97,2024-11-10,completed,debit_card,Berlin
+ORD00312,C009,P016,Linen Shirt,Clothing,2,34.99,0.05,69.98,3.5,66.48,2024-11-06,completed,mpesa,London
+ORD00313,C045,P018,Kindle E-Reader,Electronics,4,129.99,0.1,519.96,52.0,467.96,2024-12-06,completed,debit_card,Berlin
+ORD00314,C044,P020,Mechanical Keyboard,Electronics,1,149.99,0.1,149.99,15.0,134.99,2024-08-16,cancelled,paypal,London
+ORD00315,C005,P019,Hiking Boots,Sports,1,99.99,0.0,99.99,0.0,99.99,2024-10-07,cancelled,debit_card,Amsterdam
+ORD00316,C037,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-06-16,cancelled,mpesa,Berlin
+ORD00317,C008,P007,Winter Jacket,Clothing,5,89.99,0.05,449.95,22.5,427.45,2024-02-16,cancelled,mpesa,Lagos
+ORD00318,C004,P015,Laptop Stand,Electronics,2,39.99,0.1,79.98,8.0,71.98,2024-07-31,pending,credit_card,Amsterdam
+ORD00319,C036,P015,Laptop Stand,Electronics,3,39.99,0.15,119.97,18.0,101.97,2024-01-12,pending,paypal,Berlin
+ORD00320,C001,P007,Winter Jacket,Clothing,5,89.99,0.0,449.95,0.0,449.95,2024-01-24,pending,paypal,Cairo
+ORD00321,C045,P003,Python Programming,Books,5,39.99,0.0,199.95,0.0,199.95,2024-02-05,pending,credit_card,Berlin
+ORD00322,C019,P014,Protein Powder,Sports,2,54.99,0.0,109.98,0.0,109.98,2024-11-24,pending,paypal,Cairo
+ORD00323,C025,P015,Laptop Stand,Electronics,4,39.99,0.05,159.96,8.0,151.96,2024-02-11,cancelled,debit_card,Lagos
+ORD00324,C042,P012,Desk Lamp,Home & Kitchen,1,34.99,0.0,34.99,0.0,34.99,2024-10-02,pending,debit_card,Amsterdam
+ORD00325,C047,P008,Air Fryer,Home & Kitchen,1,69.99,0.0,69.99,0.0,69.99,2024-06-01,pending,mpesa,Lagos
+ORD00326,C035,P013,Novel: The Algorithm,Books,2,14.99,0.0,29.98,0.0,29.98,2024-08-23,completed,debit_card,Johannesburg
+ORD00327,C018,P007,Winter Jacket,Clothing,1,89.99,0.0,89.99,0.0,89.99,2024-12-04,pending,credit_card,Nairobi
+ORD00328,C016,P007,Winter Jacket,Clothing,1,89.99,0.0,89.99,0.0,89.99,2024-10-31,completed,mpesa,Accra
+ORD00329,C039,P002,Running Shoes,Sports,2,59.99,0.15,119.98,18.0,101.98,2024-01-23,pending,mpesa,Johannesburg
+ORD00330,C015,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-03-12,cancelled,paypal,Cairo
+ORD00331,C015,P019,Hiking Boots,Sports,3,99.99,0.1,299.97,30.0,269.97,2024-11-02,completed,debit_card,Cairo
+ORD00332,C020,P005,Yoga Mat,Sports,5,29.99,0.0,149.95,0.0,149.95,2024-07-30,completed,paypal,London
+ORD00333,C004,P018,Kindle E-Reader,Electronics,5,129.99,0.15,649.95,97.49,552.46,2024-03-30,pending,mpesa,Amsterdam
+ORD00334,C004,P012,Desk Lamp,Home & Kitchen,4,34.99,0.1,139.96,14.0,125.96,2024-06-12,pending,mpesa,Amsterdam
+ORD00335,C010,P010,Smart Watch,Electronics,4,199.99,0.0,799.96,0.0,799.96,2024-10-02,pending,debit_card,Berlin
+ORD00336,C015,P010,Smart Watch,Electronics,2,199.99,0.05,399.98,20.0,379.98,2024-01-30,cancelled,mpesa,Cairo
+ORD00337,C027,P018,Kindle E-Reader,Electronics,5,129.99,0.0,649.95,0.0,649.95,2024-07-17,completed,paypal,Amsterdam
+ORD00338,C014,P011,Running Shorts,Sports,1,24.99,0.05,24.99,1.25,23.74,2024-07-08,completed,debit_card,London
+ORD00339,C004,P009,Data Science Handbook,Books,4,44.99,0.15,179.96,26.99,152.97,2024-11-05,cancelled,credit_card,Amsterdam
+ORD00340,C005,P007,Winter Jacket,Clothing,5,89.99,0.15,449.95,67.49,382.46,2024-12-09,cancelled,debit_card,Amsterdam
+ORD00341,C031,P007,Winter Jacket,Clothing,3,89.99,0.0,269.97,0.0,269.97,2024-01-08,completed,debit_card,Lagos
+ORD00342,C048,P004,Coffee Maker,Home & Kitchen,4,49.99,0.0,199.96,0.0,199.96,2024-12-22,cancelled,debit_card,Paris
+ORD00343,C026,P008,Air Fryer,Home & Kitchen,5,69.99,0.0,349.95,0.0,349.95,2024-05-24,pending,mpesa,Lagos
+ORD00344,C035,P012,Desk Lamp,Home & Kitchen,3,34.99,0.0,104.97,0.0,104.97,2024-07-03,cancelled,mpesa,Johannesburg
+ORD00345,C030,P004,Coffee Maker,Home & Kitchen,4,49.99,0.0,199.96,0.0,199.96,2024-04-14,completed,paypal,Cairo
+ORD00346,C027,P002,Running Shoes,Sports,5,59.99,0.0,299.95,0.0,299.95,2024-03-15,completed,paypal,Amsterdam
+ORD00347,C036,P019,Hiking Boots,Sports,5,99.99,0.15,499.95,74.99,424.96,2024-08-01,completed,debit_card,Berlin
+ORD00348,C013,P011,Running Shorts,Sports,2,24.99,0.05,49.98,2.5,47.48,2024-10-18,completed,mpesa,Johannesburg
+ORD00349,C036,P011,Running Shorts,Sports,3,24.99,0.05,74.97,3.75,71.22,2024-11-24,pending,mpesa,Berlin
+ORD00350,C011,P012,Desk Lamp,Home & Kitchen,2,34.99,0.0,69.98,0.0,69.98,2024-10-06,pending,debit_card,Amsterdam
+ORD00351,C035,P002,Running Shoes,Sports,5,59.99,0.0,299.95,0.0,299.95,2024-02-08,completed,credit_card,Johannesburg
+ORD00352,C027,P005,Yoga Mat,Sports,2,29.99,0.0,59.98,0.0,59.98,2024-12-28,completed,credit_card,Amsterdam
+ORD00353,C014,P017,French Press,Home & Kitchen,4,27.99,0.0,111.96,0.0,111.96,2024-01-31,cancelled,mpesa,London
+ORD00354,C043,P016,Linen Shirt,Clothing,1,34.99,0.0,34.99,0.0,34.99,2024-09-29,cancelled,mpesa,Nairobi
+ORD00355,C001,P001,Wireless Headphones,Electronics,5,79.99,0.15,399.95,59.99,339.96,2024-05-20,cancelled,paypal,Cairo
+ORD00356,C002,P017,French Press,Home & Kitchen,4,27.99,0.0,111.96,0.0,111.96,2024-02-24,completed,debit_card,Lagos
+ORD00357,C016,P007,Winter Jacket,Clothing,5,89.99,0.1,449.95,45.0,404.95,2024-05-09,completed,paypal,Accra
+ORD00358,C026,P003,Python Programming,Books,3,39.99,0.05,119.97,6.0,113.97,2024-08-23,cancelled,debit_card,Lagos
+ORD00359,C045,P008,Air Fryer,Home & Kitchen,3,69.99,0.15,209.97,31.5,178.47,2024-02-11,completed,credit_card,Berlin
+ORD00360,C026,P013,Novel: The Algorithm,Books,4,14.99,0.1,59.96,6.0,53.96,2024-08-31,completed,credit_card,Lagos
+ORD00361,C045,P006,Bluetooth Speaker,Electronics,1,49.99,0.05,49.99,2.5,47.49,2024-08-10,completed,credit_card,Berlin
+ORD00362,C034,P002,Running Shoes,Sports,2,59.99,0.0,119.98,0.0,119.98,2024-12-20,cancelled,mpesa,Lagos
+ORD00363,C018,P002,Running Shoes,Sports,1,59.99,0.15,59.99,9.0,50.99,2024-05-23,cancelled,credit_card,Nairobi
+ORD00364,C012,P011,Running Shorts,Sports,1,24.99,0.0,24.99,0.0,24.99,2024-10-27,completed,mpesa,Lagos
+ORD00365,C005,P010,Smart Watch,Electronics,2,199.99,0.1,399.98,40.0,359.98,2024-05-03,cancelled,mpesa,Amsterdam
+ORD00366,C044,P018,Kindle E-Reader,Electronics,3,129.99,0.05,389.97,19.5,370.47,2024-03-12,completed,paypal,London
+ORD00367,C004,P004,Coffee Maker,Home & Kitchen,4,49.99,0.0,199.96,0.0,199.96,2024-02-08,completed,mpesa,Amsterdam
+ORD00368,C050,P011,Running Shorts,Sports,1,24.99,0.15,24.99,3.75,21.24,2024-05-19,pending,mpesa,Johannesburg
+ORD00369,C015,P012,Desk Lamp,Home & Kitchen,5,34.99,0.05,174.95,8.75,166.2,2024-08-09,completed,mpesa,Cairo
+ORD00370,C006,P020,Mechanical Keyboard,Electronics,3,149.99,0.0,449.97,0.0,449.97,2024-02-07,completed,paypal,Cairo
+ORD00371,C010,P013,Novel: The Algorithm,Books,2,14.99,0.15,29.98,4.5,25.48,2024-07-18,completed,paypal,Berlin
+ORD00372,C007,P003,Python Programming,Books,1,39.99,0.0,39.99,0.0,39.99,2024-08-15,completed,paypal,Cairo
+ORD00373,C007,P005,Yoga Mat,Sports,1,29.99,0.0,29.99,0.0,29.99,2024-08-08,pending,mpesa,Cairo
+ORD00374,C007,P001,Wireless Headphones,Electronics,1,79.99,0.0,79.99,0.0,79.99,2024-10-10,completed,paypal,Cairo
+ORD00375,C025,P001,Wireless Headphones,Electronics,3,79.99,0.05,239.97,12.0,227.97,2024-07-17,completed,debit_card,Lagos
+ORD00376,C037,P017,French Press,Home & Kitchen,2,27.99,0.15,55.98,8.4,47.58,2024-07-13,completed,debit_card,Berlin
+ORD00377,C018,P010,Smart Watch,Electronics,3,199.99,0.05,599.97,30.0,569.97,2024-03-15,completed,debit_card,Nairobi
+ORD00378,C028,P009,Data Science Handbook,Books,4,44.99,0.0,179.96,0.0,179.96,2024-09-04,completed,paypal,Amsterdam
+ORD00379,C017,P008,Air Fryer,Home & Kitchen,4,69.99,0.1,279.96,28.0,251.96,2024-11-11,completed,mpesa,Paris
+ORD00380,C007,P005,Yoga Mat,Sports,3,29.99,0.0,89.97,0.0,89.97,2024-07-21,completed,mpesa,Cairo
+ORD00381,C022,P015,Laptop Stand,Electronics,3,39.99,0.05,119.97,6.0,113.97,2024-11-29,cancelled,debit_card,Amsterdam
+ORD00382,C020,P011,Running Shorts,Sports,5,24.99,0.15,124.95,18.74,106.21,2024-04-12,pending,paypal,London
+ORD00383,C012,P013,Novel: The Algorithm,Books,3,14.99,0.0,44.97,0.0,44.97,2024-12-21,pending,debit_card,Lagos
+ORD00384,C021,P013,Novel: The Algorithm,Books,3,14.99,0.05,44.97,2.25,42.72,2024-07-05,completed,debit_card,Berlin
+ORD00385,C038,P018,Kindle E-Reader,Electronics,2,129.99,0.15,259.98,39.0,220.98,2024-10-08,completed,mpesa,Madrid
+ORD00386,C046,P007,Winter Jacket,Clothing,4,89.99,0.0,359.96,0.0,359.96,2024-12-20,completed,mpesa,Berlin
+ORD00387,C044,P016,Linen Shirt,Clothing,2,34.99,0.15,69.98,10.5,59.48,2024-06-04,completed,paypal,London
+ORD00388,C043,P005,Yoga Mat,Sports,4,29.99,0.05,119.96,6.0,113.96,2024-02-07,pending,mpesa,Nairobi
+ORD00389,C038,P013,Novel: The Algorithm,Books,5,14.99,0.1,74.95,7.5,67.45,2024-12-20,pending,credit_card,Madrid
+ORD00390,C024,P018,Kindle E-Reader,Electronics,5,129.99,0.15,649.95,97.49,552.46,2024-02-13,completed,debit_card,Amsterdam
+ORD00391,C043,P012,Desk Lamp,Home & Kitchen,2,34.99,0.15,69.98,10.5,59.48,2024-11-09,completed,mpesa,Nairobi
+ORD00392,C049,P011,Running Shorts,Sports,4,24.99,0.0,99.96,0.0,99.96,2024-01-06,completed,paypal,Paris
+ORD00393,C015,P017,French Press,Home & Kitchen,5,27.99,0.1,139.95,13.99,125.96,2024-10-24,cancelled,debit_card,Cairo
+ORD00394,C029,P012,Desk Lamp,Home & Kitchen,4,34.99,0.05,139.96,7.0,132.96,2024-12-13,cancelled,debit_card,Paris
+ORD00395,C023,P001,Wireless Headphones,Electronics,4,79.99,0.0,319.96,0.0,319.96,2024-05-31,pending,credit_card,Madrid
+ORD00396,C008,P005,Yoga Mat,Sports,3,29.99,0.0,89.97,0.0,89.97,2024-06-24,pending,debit_card,Lagos
+ORD00397,C034,P016,Linen Shirt,Clothing,3,34.99,0.05,104.97,5.25,99.72,2024-02-19,pending,mpesa,Lagos
+ORD00398,C021,P003,Python Programming,Books,3,39.99,0.0,119.97,0.0,119.97,2024-12-29,completed,credit_card,Berlin
+ORD00399,C022,P004,Coffee Maker,Home & Kitchen,2,49.99,0.15,99.98,15.0,84.98,2024-05-04,cancelled,debit_card,Amsterdam
+ORD00400,C036,P006,Bluetooth Speaker,Electronics,3,49.99,0.1,149.97,15.0,134.97,2024-08-06,pending,debit_card,Berlin
+ORD00401,C026,P006,Bluetooth Speaker,Electronics,2,49.99,0.15,99.98,15.0,84.98,2024-12-02,pending,mpesa,Lagos
+ORD00402,C002,P020,Mechanical Keyboard,Electronics,2,149.99,0.05,299.98,15.0,284.98,2024-10-30,pending,mpesa,Lagos
+ORD00403,C001,P007,Winter Jacket,Clothing,2,89.99,0.0,179.98,0.0,179.98,2024-12-26,completed,credit_card,Cairo
+ORD00404,C035,P006,Bluetooth Speaker,Electronics,3,49.99,0.0,149.97,0.0,149.97,2024-04-10,pending,credit_card,Johannesburg
+ORD00405,C017,P016,Linen Shirt,Clothing,5,34.99,0.15,174.95,26.24,148.71,2024-06-09,cancelled,mpesa,Paris
+ORD00406,C040,P013,Novel: The Algorithm,Books,5,14.99,0.0,74.95,0.0,74.95,2024-06-27,completed,mpesa,London
+ORD00407,C040,P006,Bluetooth Speaker,Electronics,3,49.99,0.1,149.97,15.0,134.97,2024-10-29,completed,debit_card,London
+ORD00408,C021,P004,Coffee Maker,Home & Kitchen,2,49.99,0.0,99.98,0.0,99.98,2024-02-29,completed,paypal,Berlin
+ORD00409,C045,P005,Yoga Mat,Sports,5,29.99,0.05,149.95,7.5,142.45,2024-08-02,cancelled,debit_card,Berlin
+ORD00410,C037,P013,Novel: The Algorithm,Books,4,14.99,0.0,59.96,0.0,59.96,2024-09-06,cancelled,debit_card,Berlin
+ORD00411,C036,P006,Bluetooth Speaker,Electronics,4,49.99,0.0,199.96,0.0,199.96,2024-03-12,completed,paypal,Berlin
+ORD00412,C029,P020,Mechanical Keyboard,Electronics,1,149.99,0.0,149.99,0.0,149.99,2024-01-05,pending,debit_card,Paris
+ORD00413,C013,P013,Novel: The Algorithm,Books,5,14.99,0.1,74.95,7.5,67.45,2024-11-30,pending,mpesa,Johannesburg
+ORD00414,C044,P016,Linen Shirt,Clothing,4,34.99,0.15,139.96,20.99,118.97,2024-08-15,pending,debit_card,London
+ORD00415,C006,P019,Hiking Boots,Sports,1,99.99,0.0,99.99,0.0,99.99,2024-05-29,completed,paypal,Cairo
+ORD00416,C015,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-08-22,cancelled,mpesa,Cairo
+ORD00417,C036,P017,French Press,Home & Kitchen,1,27.99,0.1,27.99,2.8,25.19,2024-02-28,completed,paypal,Berlin
+ORD00418,C035,P002,Running Shoes,Sports,4,59.99,0.1,239.96,24.0,215.96,2024-04-21,pending,credit_card,Johannesburg
+ORD00419,C048,P008,Air Fryer,Home & Kitchen,3,69.99,0.0,209.97,0.0,209.97,2024-08-18,completed,paypal,Paris
+ORD00420,C006,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-04-17,cancelled,paypal,Cairo
+ORD00421,C046,P020,Mechanical Keyboard,Electronics,4,149.99,0.0,599.96,0.0,599.96,2024-11-11,completed,debit_card,Berlin
+ORD00422,C014,P002,Running Shoes,Sports,5,59.99,0.0,299.95,0.0,299.95,2024-09-29,completed,debit_card,London
+ORD00423,C021,P010,Smart Watch,Electronics,3,199.99,0.1,599.97,60.0,539.97,2024-05-16,cancelled,credit_card,Berlin
+ORD00424,C009,P014,Protein Powder,Sports,1,54.99,0.0,54.99,0.0,54.99,2024-12-01,completed,debit_card,London
+ORD00425,C016,P005,Yoga Mat,Sports,3,29.99,0.0,89.97,0.0,89.97,2024-12-12,pending,mpesa,Accra
+ORD00426,C010,P019,Hiking Boots,Sports,3,99.99,0.15,299.97,45.0,254.97,2024-07-31,pending,mpesa,Berlin
+ORD00427,C005,P003,Python Programming,Books,4,39.99,0.1,159.96,16.0,143.96,2024-05-22,completed,mpesa,Amsterdam
+ORD00428,C032,P011,Running Shorts,Sports,5,24.99,0.0,124.95,0.0,124.95,2024-02-17,pending,paypal,Johannesburg
+ORD00429,C005,P018,Kindle E-Reader,Electronics,4,129.99,0.0,519.96,0.0,519.96,2024-08-07,completed,mpesa,Amsterdam
+ORD00430,C018,P011,Running Shorts,Sports,3,24.99,0.0,74.97,0.0,74.97,2024-10-07,cancelled,debit_card,Nairobi
+ORD00431,C037,P016,Linen Shirt,Clothing,3,34.99,0.15,104.97,15.75,89.22,2024-01-25,completed,credit_card,Berlin
+ORD00432,C041,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-03-21,pending,mpesa,Johannesburg
+ORD00433,C001,P014,Protein Powder,Sports,2,54.99,0.15,109.98,16.5,93.48,2024-03-08,completed,debit_card,Cairo
+ORD00434,C018,P003,Python Programming,Books,3,39.99,0.0,119.97,0.0,119.97,2024-02-12,completed,debit_card,Nairobi
+ORD00435,C004,P013,Novel: The Algorithm,Books,3,14.99,0.15,44.97,6.75,38.22,2024-12-24,completed,mpesa,Amsterdam
+ORD00436,C042,P003,Python Programming,Books,1,39.99,0.0,39.99,0.0,39.99,2024-04-19,pending,credit_card,Amsterdam
+ORD00437,C009,P019,Hiking Boots,Sports,2,99.99,0.1,199.98,20.0,179.98,2024-12-14,pending,credit_card,London
+ORD00438,C001,P011,Running Shorts,Sports,1,24.99,0.05,24.99,1.25,23.74,2024-12-21,completed,mpesa,Cairo
+ORD00439,C005,P008,Air Fryer,Home & Kitchen,4,69.99,0.0,279.96,0.0,279.96,2024-02-22,completed,paypal,Amsterdam
+ORD00440,C024,P010,Smart Watch,Electronics,2,199.99,0.05,399.98,20.0,379.98,2024-03-09,completed,credit_card,Amsterdam
+ORD00441,C034,P019,Hiking Boots,Sports,1,99.99,0.1,99.99,10.0,89.99,2024-11-28,completed,mpesa,Lagos
+ORD00442,C023,P007,Winter Jacket,Clothing,2,89.99,0.05,179.98,9.0,170.98,2024-11-11,pending,debit_card,Madrid
+ORD00443,C006,P004,Coffee Maker,Home & Kitchen,2,49.99,0.0,99.98,0.0,99.98,2024-10-28,pending,paypal,Cairo
+ORD00444,C028,P011,Running Shorts,Sports,2,24.99,0.0,49.98,0.0,49.98,2024-05-21,completed,debit_card,Amsterdam
+ORD00445,C036,P020,Mechanical Keyboard,Electronics,5,149.99,0.15,749.95,112.49,637.46,2024-11-07,completed,credit_card,Berlin
+ORD00446,C043,P010,Smart Watch,Electronics,2,199.99,0.1,399.98,40.0,359.98,2024-11-06,cancelled,debit_card,Nairobi
+ORD00447,C048,P013,Novel: The Algorithm,Books,3,14.99,0.15,44.97,6.75,38.22,2024-01-28,completed,mpesa,Paris
+ORD00448,C025,P004,Coffee Maker,Home & Kitchen,2,49.99,0.05,99.98,5.0,94.98,2024-11-22,cancelled,credit_card,Lagos
+ORD00449,C034,P001,Wireless Headphones,Electronics,3,79.99,0.0,239.97,0.0,239.97,2024-03-08,pending,mpesa,Lagos
+ORD00450,C024,P018,Kindle E-Reader,Electronics,2,129.99,0.05,259.98,13.0,246.98,2024-02-07,completed,credit_card,Amsterdam
+ORD00451,C001,P009,Data Science Handbook,Books,2,44.99,0.0,89.98,0.0,89.98,2024-01-31,pending,paypal,Cairo
+ORD00452,C041,P017,French Press,Home & Kitchen,4,27.99,0.05,111.96,5.6,106.36,2024-12-25,pending,credit_card,Johannesburg
+ORD00453,C041,P018,Kindle E-Reader,Electronics,5,129.99,0.1,649.95,65.0,584.95,2024-03-19,completed,credit_card,Johannesburg
+ORD00454,C020,P003,Python Programming,Books,5,39.99,0.0,199.95,0.0,199.95,2024-03-20,cancelled,paypal,London
+ORD00455,C026,P019,Hiking Boots,Sports,1,99.99,0.0,99.99,0.0,99.99,2024-12-23,pending,debit_card,Lagos
+ORD00456,C004,P008,Air Fryer,Home & Kitchen,1,69.99,0.05,69.99,3.5,66.49,2024-02-29,pending,credit_card,Amsterdam
+ORD00457,C020,P006,Bluetooth Speaker,Electronics,1,49.99,0.0,49.99,0.0,49.99,2024-12-28,completed,credit_card,London
+ORD00458,C011,P016,Linen Shirt,Clothing,3,34.99,0.1,104.97,10.5,94.47,2024-09-21,completed,debit_card,Amsterdam
+ORD00459,C024,P005,Yoga Mat,Sports,3,29.99,0.15,89.97,13.5,76.47,2024-03-01,completed,paypal,Amsterdam
+ORD00460,C028,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-05-14,cancelled,credit_card,Amsterdam
+ORD00461,C032,P015,Laptop Stand,Electronics,5,39.99,0.0,199.95,0.0,199.95,2024-01-29,pending,debit_card,Johannesburg
+ORD00462,C024,P006,Bluetooth Speaker,Electronics,3,49.99,0.0,149.97,0.0,149.97,2024-10-20,completed,debit_card,Amsterdam
+ORD00463,C048,P017,French Press,Home & Kitchen,1,27.99,0.0,27.99,0.0,27.99,2024-01-07,completed,credit_card,Paris
+ORD00464,C031,P012,Desk Lamp,Home & Kitchen,4,34.99,0.0,139.96,0.0,139.96,2024-04-01,completed,mpesa,Lagos
+ORD00465,C015,P011,Running Shorts,Sports,2,24.99,0.05,49.98,2.5,47.48,2024-06-12,completed,credit_card,Cairo
+ORD00466,C037,P012,Desk Lamp,Home & Kitchen,1,34.99,0.1,34.99,3.5,31.49,2024-12-10,completed,debit_card,Berlin
+ORD00467,C015,P017,French Press,Home & Kitchen,1,27.99,0.05,27.99,1.4,26.59,2024-02-05,pending,paypal,Cairo
+ORD00468,C050,P010,Smart Watch,Electronics,3,199.99,0.0,599.97,0.0,599.97,2024-10-10,pending,credit_card,Johannesburg
+ORD00469,C024,P007,Winter Jacket,Clothing,3,89.99,0.1,269.97,27.0,242.97,2024-06-04,cancelled,debit_card,Amsterdam
+ORD00470,C030,P012,Desk Lamp,Home & Kitchen,5,34.99,0.05,174.95,8.75,166.2,2024-04-10,cancelled,debit_card,Cairo
+ORD00471,C010,P001,Wireless Headphones,Electronics,4,79.99,0.0,319.96,0.0,319.96,2024-04-29,cancelled,paypal,Berlin
+ORD00472,C041,P001,Wireless Headphones,Electronics,3,79.99,0.0,239.97,0.0,239.97,2024-12-02,pending,paypal,Johannesburg
+ORD00473,C007,P007,Winter Jacket,Clothing,5,89.99,0.0,449.95,0.0,449.95,2024-08-02,pending,credit_card,Cairo
+ORD00474,C010,P009,Data Science Handbook,Books,1,44.99,0.0,44.99,0.0,44.99,2024-04-28,cancelled,mpesa,Berlin
+ORD00475,C045,P012,Desk Lamp,Home & Kitchen,4,34.99,0.15,139.96,20.99,118.97,2024-02-13,cancelled,credit_card,Berlin
+ORD00476,C033,P005,Yoga Mat,Sports,4,29.99,0.0,119.96,0.0,119.96,2024-10-30,cancelled,credit_card,Amsterdam
+ORD00477,C028,P005,Yoga Mat,Sports,2,29.99,0.0,59.98,0.0,59.98,2024-05-13,completed,mpesa,Amsterdam
+ORD00478,C045,P011,Running Shorts,Sports,3,24.99,0.05,74.97,3.75,71.22,2024-05-19,completed,credit_card,Berlin
+ORD00479,C013,P005,Yoga Mat,Sports,5,29.99,0.0,149.95,0.0,149.95,2024-03-20,completed,debit_card,Johannesburg
+ORD00480,C029,P015,Laptop Stand,Electronics,3,39.99,0.05,119.97,6.0,113.97,2024-03-02,cancelled,paypal,Paris
+ORD00481,C050,P007,Winter Jacket,Clothing,4,89.99,0.0,359.96,0.0,359.96,2024-08-25,completed,credit_card,Johannesburg
+ORD00482,C006,P006,Bluetooth Speaker,Electronics,3,49.99,0.15,149.97,22.5,127.47,2024-12-22,cancelled,credit_card,Cairo
+ORD00483,C014,P011,Running Shorts,Sports,2,24.99,0.0,49.98,0.0,49.98,2024-12-30,completed,paypal,London
+ORD00484,C026,P017,French Press,Home & Kitchen,1,27.99,0.15,27.99,4.2,23.79,2024-06-02,completed,debit_card,Lagos
+ORD00485,C002,P013,Novel: The Algorithm,Books,4,14.99,0.1,59.96,6.0,53.96,2024-10-08,completed,credit_card,Lagos
+ORD00486,C030,P004,Coffee Maker,Home & Kitchen,2,49.99,0.0,99.98,0.0,99.98,2024-01-07,completed,debit_card,Cairo
+ORD00487,C009,P007,Winter Jacket,Clothing,4,89.99,0.0,359.96,0.0,359.96,2024-12-17,completed,paypal,London
+ORD00488,C005,P001,Wireless Headphones,Electronics,1,79.99,0.0,79.99,0.0,79.99,2024-11-26,pending,debit_card,Amsterdam
+ORD00489,C006,P011,Running Shorts,Sports,1,24.99,0.0,24.99,0.0,24.99,2024-08-24,completed,debit_card,Cairo
+ORD00490,C037,P014,Protein Powder,Sports,4,54.99,0.05,219.96,11.0,208.96,2024-01-16,pending,mpesa,Berlin
+ORD00491,C012,P012,Desk Lamp,Home & Kitchen,2,34.99,0.0,69.98,0.0,69.98,2024-05-20,completed,mpesa,Lagos
+ORD00492,C010,P002,Running Shoes,Sports,5,59.99,0.1,299.95,30.0,269.95,2024-11-11,completed,paypal,Berlin
+ORD00493,C032,P014,Protein Powder,Sports,5,54.99,0.05,274.95,13.75,261.2,2024-02-01,completed,paypal,Johannesburg
+ORD00494,C025,P005,Yoga Mat,Sports,4,29.99,0.0,119.96,0.0,119.96,2024-11-25,cancelled,debit_card,Lagos
+ORD00495,C041,P018,Kindle E-Reader,Electronics,1,129.99,0.05,129.99,6.5,123.49,2024-07-02,pending,mpesa,Johannesburg
+ORD00496,C023,P019,Hiking Boots,Sports,5,99.99,0.0,499.95,0.0,499.95,2024-07-17,completed,debit_card,Madrid
+ORD00497,C002,P011,Running Shorts,Sports,5,24.99,0.0,124.95,0.0,124.95,2024-01-16,completed,credit_card,Lagos
+ORD00498,C031,P017,French Press,Home & Kitchen,3,27.99,0.1,83.97,8.4,75.57,2024-04-29,completed,credit_card,Lagos
+ORD00499,C016,P008,Air Fryer,Home & Kitchen,3,69.99,0.1,209.97,21.0,188.97,2024-01-29,completed,mpesa,Accra
+ORD00500,C023,P006,Bluetooth Speaker,Electronics,2,49.99,0.0,99.98,0.0,99.98,2024-10-30,completed,paypal,Madrid
+ORD00501,C038,P001,Wireless Headphones,Electronics,3,79.99,0.1,239.97,24.0,215.97,2024-10-15,completed,debit_card,Madrid
+ORD00502,C032,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-09-08,completed,credit_card,Johannesburg
+ORD00503,C004,P008,Air Fryer,Home & Kitchen,5,69.99,0.0,349.95,0.0,349.95,2024-01-11,cancelled,mpesa,Amsterdam
+ORD00504,C001,P011,Running Shorts,Sports,5,24.99,0.0,124.95,0.0,124.95,2024-03-07,completed,debit_card,Cairo
+ORD00505,C021,P002,Running Shoes,Sports,1,59.99,0.0,59.99,0.0,59.99,2024-10-27,completed,credit_card,Berlin
+ORD00506,C034,P012,Desk Lamp,Home & Kitchen,1,34.99,0.0,34.99,0.0,34.99,2024-12-26,pending,credit_card,Lagos
+ORD00507,C022,P010,Smart Watch,Electronics,3,199.99,0.0,599.97,0.0,599.97,2024-03-21,pending,mpesa,Amsterdam
+ORD00508,C042,P011,Running Shorts,Sports,2,24.99,0.15,49.98,7.5,42.48,2024-10-14,cancelled,paypal,Amsterdam
+ORD00509,C015,P019,Hiking Boots,Sports,2,99.99,0.05,199.98,10.0,189.98,2024-06-06,completed,debit_card,Cairo
+ORD00510,C012,P001,Wireless Headphones,Electronics,5,79.99,0.05,399.95,20.0,379.95,2024-10-17,completed,debit_card,Lagos
+ORD00511,C039,P011,Running Shorts,Sports,5,24.99,0.0,124.95,0.0,124.95,2024-11-23,cancelled,credit_card,Johannesburg
+ORD00512,C032,P005,Yoga Mat,Sports,3,29.99,0.15,89.97,13.5,76.47,2024-02-09,completed,paypal,Johannesburg
+ORD00513,C021,P006,Bluetooth Speaker,Electronics,1,49.99,0.15,49.99,7.5,42.49,2024-12-09,completed,mpesa,Berlin
+ORD00514,C001,P009,Data Science Handbook,Books,2,44.99,0.0,89.98,0.0,89.98,2024-12-20,completed,paypal,Cairo
+ORD00515,C017,P004,Coffee Maker,Home & Kitchen,1,49.99,0.0,49.99,0.0,49.99,2024-07-16,pending,mpesa,Paris
+ORD00516,C011,P014,Protein Powder,Sports,4,54.99,0.05,219.96,11.0,208.96,2024-06-28,cancelled,mpesa,Amsterdam
+ORD00517,C007,P016,Linen Shirt,Clothing,5,34.99,0.15,174.95,26.24,148.71,2024-12-17,completed,debit_card,Cairo
+ORD00518,C029,P003,Python Programming,Books,1,39.99,0.0,39.99,0.0,39.99,2024-01-11,completed,paypal,Paris
+ORD00519,C007,P003,Python Programming,Books,3,39.99,0.0,119.97,0.0,119.97,2024-07-11,completed,credit_card,Cairo
+ORD00520,C036,P003,Python Programming,Books,3,39.99,0.1,119.97,12.0,107.97,2024-11-10,pending,credit_card,Berlin
+ORD00521,C028,P006,Bluetooth Speaker,Electronics,5,49.99,0.05,249.95,12.5,237.45,2024-03-21,completed,credit_card,Amsterdam
+ORD00522,C022,P007,Winter Jacket,Clothing,2,89.99,0.05,179.98,9.0,170.98,2024-12-22,cancelled,paypal,Amsterdam
+ORD00523,C043,P010,Smart Watch,Electronics,3,199.99,0.0,599.97,0.0,599.97,2024-02-19,completed,mpesa,Nairobi
+ORD00524,C037,P018,Kindle E-Reader,Electronics,4,129.99,0.0,519.96,0.0,519.96,2024-01-28,completed,credit_card,Berlin
+ORD00525,C028,P003,Python Programming,Books,3,39.99,0.15,119.97,18.0,101.97,2024-11-16,cancelled,mpesa,Amsterdam
+ORD00526,C013,P004,Coffee Maker,Home & Kitchen,1,49.99,0.0,49.99,0.0,49.99,2024-03-28,completed,credit_card,Johannesburg
+ORD00527,C031,P004,Coffee Maker,Home & Kitchen,3,49.99,0.05,149.97,7.5,142.47,2024-08-29,pending,paypal,Lagos
+ORD00528,C006,P018,Kindle E-Reader,Electronics,4,129.99,0.0,519.96,0.0,519.96,2024-07-08,pending,paypal,Cairo
+ORD00529,C012,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-08-13,pending,paypal,Lagos
+ORD00530,C015,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-03-18,completed,credit_card,Cairo
+ORD00531,C043,P012,Desk Lamp,Home & Kitchen,5,34.99,0.05,174.95,8.75,166.2,2024-10-28,completed,credit_card,Nairobi
+ORD00532,C025,P017,French Press,Home & Kitchen,4,27.99,0.1,111.96,11.2,100.76,2024-12-17,pending,debit_card,Lagos
+ORD00533,C031,P010,Smart Watch,Electronics,1,199.99,0.05,199.99,10.0,189.99,2024-01-18,cancelled,debit_card,Lagos
+ORD00534,C008,P015,Laptop Stand,Electronics,2,39.99,0.0,79.98,0.0,79.98,2024-04-18,completed,debit_card,Lagos
+ORD00535,C003,P014,Protein Powder,Sports,1,54.99,0.15,54.99,8.25,46.74,2024-08-10,completed,debit_card,Nairobi
+ORD00536,C039,P009,Data Science Handbook,Books,3,44.99,0.15,134.97,20.25,114.72,2024-02-04,completed,mpesa,Johannesburg
+ORD00537,C036,P013,Novel: The Algorithm,Books,5,14.99,0.0,74.95,0.0,74.95,2024-05-21,cancelled,mpesa,Berlin
+ORD00538,C001,P020,Mechanical Keyboard,Electronics,5,149.99,0.1,749.95,75.0,674.95,2024-08-02,completed,mpesa,Cairo
+ORD00539,C010,P005,Yoga Mat,Sports,5,29.99,0.1,149.95,14.99,134.96,2024-10-25,completed,credit_card,Berlin
+ORD00540,C037,P004,Coffee Maker,Home & Kitchen,3,49.99,0.1,149.97,15.0,134.97,2024-06-25,pending,paypal,Berlin
+ORD00541,C025,P016,Linen Shirt,Clothing,5,34.99,0.1,174.95,17.5,157.45,2024-08-30,completed,debit_card,Lagos
+ORD00542,C018,P013,Novel: The Algorithm,Books,2,14.99,0.1,29.98,3.0,26.98,2024-11-07,pending,credit_card,Nairobi
+ORD00543,C026,P011,Running Shorts,Sports,2,24.99,0.0,49.98,0.0,49.98,2024-08-31,completed,paypal,Lagos
+ORD00544,C002,P011,Running Shorts,Sports,3,24.99,0.0,74.97,0.0,74.97,2024-05-23,pending,credit_card,Lagos
+ORD00545,C015,P005,Yoga Mat,Sports,3,29.99,0.15,89.97,13.5,76.47,2024-08-14,completed,paypal,Cairo
+ORD00546,C047,P014,Protein Powder,Sports,5,54.99,0.15,274.95,41.24,233.71,2024-02-15,completed,mpesa,Lagos
+ORD00547,C014,P014,Protein Powder,Sports,4,54.99,0.1,219.96,22.0,197.96,2024-07-10,completed,debit_card,London
+ORD00548,C005,P010,Smart Watch,Electronics,5,199.99,0.05,999.95,50.0,949.95,2024-03-10,cancelled,credit_card,Amsterdam
+ORD00549,C012,P007,Winter Jacket,Clothing,2,89.99,0.0,179.98,0.0,179.98,2024-05-07,completed,mpesa,Lagos
+ORD00550,C004,P012,Desk Lamp,Home & Kitchen,2,34.99,0.0,69.98,0.0,69.98,2024-07-07,pending,mpesa,Amsterdam
+ORD00551,C041,P004,Coffee Maker,Home & Kitchen,1,49.99,0.0,49.99,0.0,49.99,2024-07-09,pending,mpesa,Johannesburg
+ORD00552,C012,P016,Linen Shirt,Clothing,5,34.99,0.1,174.95,17.5,157.45,2024-06-28,completed,debit_card,Lagos
+ORD00553,C017,P003,Python Programming,Books,3,39.99,0.0,119.97,0.0,119.97,2024-07-16,completed,debit_card,Paris
+ORD00554,C037,P007,Winter Jacket,Clothing,2,89.99,0.15,179.98,27.0,152.98,2024-04-25,completed,paypal,Berlin
+ORD00555,C042,P014,Protein Powder,Sports,5,54.99,0.0,274.95,0.0,274.95,2024-12-15,completed,mpesa,Amsterdam
+ORD00556,C009,P006,Bluetooth Speaker,Electronics,5,49.99,0.0,249.95,0.0,249.95,2024-04-24,completed,paypal,London
+ORD00557,C046,P009,Data Science Handbook,Books,4,44.99,0.05,179.96,9.0,170.96,2024-06-27,pending,paypal,Berlin
+ORD00558,C014,P015,Laptop Stand,Electronics,3,39.99,0.15,119.97,18.0,101.97,2024-09-23,cancelled,mpesa,London
+ORD00559,C038,P004,Coffee Maker,Home & Kitchen,1,49.99,0.1,49.99,5.0,44.99,2024-12-05,completed,paypal,Madrid
+ORD00560,C020,P004,Coffee Maker,Home & Kitchen,4,49.99,0.0,199.96,0.0,199.96,2024-06-21,completed,paypal,London
+ORD00561,C018,P009,Data Science Handbook,Books,3,44.99,0.0,134.97,0.0,134.97,2024-03-17,cancelled,debit_card,Nairobi
+ORD00562,C004,P020,Mechanical Keyboard,Electronics,4,149.99,0.15,599.96,89.99,509.97,2024-06-12,completed,credit_card,Amsterdam
+ORD00563,C042,P016,Linen Shirt,Clothing,3,34.99,0.0,104.97,0.0,104.97,2024-08-02,pending,mpesa,Amsterdam
+ORD00564,C048,P002,Running Shoes,Sports,5,59.99,0.15,299.95,44.99,254.96,2024-10-19,completed,paypal,Paris
+ORD00565,C047,P008,Air Fryer,Home & Kitchen,5,69.99,0.15,349.95,52.49,297.46,2024-08-31,completed,paypal,Lagos
+ORD00566,C011,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-02-19,pending,debit_card,Amsterdam
+ORD00567,C048,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-12-14,completed,credit_card,Paris
+ORD00568,C015,P012,Desk Lamp,Home & Kitchen,2,34.99,0.15,69.98,10.5,59.48,2024-06-06,pending,paypal,Cairo
+ORD00569,C024,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-08-25,completed,mpesa,Amsterdam
+ORD00570,C004,P019,Hiking Boots,Sports,5,99.99,0.1,499.95,50.0,449.95,2024-02-06,pending,debit_card,Amsterdam
+ORD00571,C033,P004,Coffee Maker,Home & Kitchen,4,49.99,0.1,199.96,20.0,179.96,2024-06-01,pending,credit_card,Amsterdam
+ORD00572,C010,P005,Yoga Mat,Sports,2,29.99,0.0,59.98,0.0,59.98,2024-07-28,cancelled,mpesa,Berlin
+ORD00573,C010,P011,Running Shorts,Sports,2,24.99,0.0,49.98,0.0,49.98,2024-09-06,completed,debit_card,Berlin
+ORD00574,C021,P002,Running Shoes,Sports,1,59.99,0.05,59.99,3.0,56.99,2024-05-20,completed,debit_card,Berlin
+ORD00575,C037,P006,Bluetooth Speaker,Electronics,4,49.99,0.0,199.96,0.0,199.96,2024-03-07,cancelled,mpesa,Berlin
+ORD00576,C041,P014,Protein Powder,Sports,4,54.99,0.05,219.96,11.0,208.96,2024-09-01,pending,credit_card,Johannesburg
+ORD00577,C003,P018,Kindle E-Reader,Electronics,2,129.99,0.15,259.98,39.0,220.98,2024-07-10,completed,paypal,Nairobi
+ORD00578,C049,P017,French Press,Home & Kitchen,2,27.99,0.0,55.98,0.0,55.98,2024-12-12,completed,debit_card,Paris
+ORD00579,C015,P012,Desk Lamp,Home & Kitchen,3,34.99,0.0,104.97,0.0,104.97,2024-02-22,pending,paypal,Cairo
+ORD00580,C011,P003,Python Programming,Books,1,39.99,0.0,39.99,0.0,39.99,2024-05-28,pending,paypal,Amsterdam
+ORD00581,C028,P005,Yoga Mat,Sports,3,29.99,0.05,89.97,4.5,85.47,2024-07-02,completed,debit_card,Amsterdam
+ORD00582,C026,P001,Wireless Headphones,Electronics,2,79.99,0.0,159.98,0.0,159.98,2024-03-08,completed,credit_card,Lagos
+ORD00583,C038,P017,French Press,Home & Kitchen,2,27.99,0.0,55.98,0.0,55.98,2024-07-06,completed,mpesa,Madrid
+ORD00584,C041,P009,Data Science Handbook,Books,5,44.99,0.1,224.95,22.5,202.45,2024-01-25,cancelled,credit_card,Johannesburg
+ORD00585,C043,P004,Coffee Maker,Home & Kitchen,1,49.99,0.0,49.99,0.0,49.99,2024-12-19,completed,mpesa,Nairobi
+ORD00586,C029,P013,Novel: The Algorithm,Books,1,14.99,0.1,14.99,1.5,13.49,2024-05-09,pending,debit_card,Paris
+ORD00587,C014,P001,Wireless Headphones,Electronics,3,79.99,0.05,239.97,12.0,227.97,2024-12-04,completed,paypal,London
+ORD00588,C040,P020,Mechanical Keyboard,Electronics,2,149.99,0.05,299.98,15.0,284.98,2024-02-23,cancelled,credit_card,London
+ORD00589,C019,P004,Coffee Maker,Home & Kitchen,1,49.99,0.05,49.99,2.5,47.49,2024-04-11,cancelled,debit_card,Cairo
+ORD00590,C050,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-07-02,pending,paypal,Johannesburg
+ORD00591,C011,P002,Running Shoes,Sports,5,59.99,0.05,299.95,15.0,284.95,2024-04-16,pending,paypal,Amsterdam
+ORD00592,C016,P001,Wireless Headphones,Electronics,1,79.99,0.15,79.99,12.0,67.99,2024-02-15,completed,mpesa,Accra
+ORD00593,C010,P003,Python Programming,Books,5,39.99,0.0,199.95,0.0,199.95,2024-02-21,completed,debit_card,Berlin
+ORD00594,C030,P010,Smart Watch,Electronics,3,199.99,0.05,599.97,30.0,569.97,2024-01-26,completed,debit_card,Cairo
+ORD00595,C003,P010,Smart Watch,Electronics,3,199.99,0.15,599.97,90.0,509.97,2024-06-09,pending,credit_card,Nairobi
+ORD00596,C007,P002,Running Shoes,Sports,1,59.99,0.0,59.99,0.0,59.99,2024-12-05,completed,paypal,Cairo
+ORD00597,C023,P015,Laptop Stand,Electronics,5,39.99,0.0,199.95,0.0,199.95,2024-02-17,completed,paypal,Madrid
+ORD00598,C012,P004,Coffee Maker,Home & Kitchen,4,49.99,0.05,199.96,10.0,189.96,2024-08-21,completed,mpesa,Lagos
+ORD00599,C045,P016,Linen Shirt,Clothing,4,34.99,0.15,139.96,20.99,118.97,2024-03-26,completed,debit_card,Berlin
+ORD00600,C045,P002,Running Shoes,Sports,2,59.99,0.0,119.98,0.0,119.98,2024-08-01,cancelled,mpesa,Berlin
+ORD00601,C037,P015,Laptop Stand,Electronics,2,39.99,0.1,79.98,8.0,71.98,2024-07-13,completed,credit_card,Berlin
+ORD00602,C044,P005,Yoga Mat,Sports,4,29.99,0.05,119.96,6.0,113.96,2024-02-27,pending,mpesa,London
+ORD00603,C003,P003,Python Programming,Books,3,39.99,0.15,119.97,18.0,101.97,2024-06-09,completed,debit_card,Nairobi
+ORD00604,C043,P011,Running Shorts,Sports,5,24.99,0.1,124.95,12.5,112.45,2024-12-18,cancelled,credit_card,Nairobi
+ORD00605,C028,P008,Air Fryer,Home & Kitchen,4,69.99,0.0,279.96,0.0,279.96,2024-12-05,pending,debit_card,Amsterdam
+ORD00606,C036,P020,Mechanical Keyboard,Electronics,1,149.99,0.0,149.99,0.0,149.99,2024-11-25,completed,mpesa,Berlin
+ORD00607,C032,P006,Bluetooth Speaker,Electronics,1,49.99,0.05,49.99,2.5,47.49,2024-06-13,completed,paypal,Johannesburg
+ORD00608,C018,P002,Running Shoes,Sports,5,59.99,0.0,299.95,0.0,299.95,2024-10-08,pending,mpesa,Nairobi
+ORD00609,C016,P003,Python Programming,Books,4,39.99,0.05,159.96,8.0,151.96,2024-10-20,pending,credit_card,Accra
+ORD00610,C032,P015,Laptop Stand,Electronics,3,39.99,0.0,119.97,0.0,119.97,2024-09-11,completed,credit_card,Johannesburg
+ORD00611,C026,P014,Protein Powder,Sports,1,54.99,0.1,54.99,5.5,49.49,2024-10-08,completed,credit_card,Lagos
+ORD00612,C039,P020,Mechanical Keyboard,Electronics,3,149.99,0.1,449.97,45.0,404.97,2024-10-14,completed,mpesa,Johannesburg
+ORD00613,C022,P012,Desk Lamp,Home & Kitchen,1,34.99,0.0,34.99,0.0,34.99,2024-08-20,completed,mpesa,Amsterdam
+ORD00614,C046,P012,Desk Lamp,Home & Kitchen,4,34.99,0.0,139.96,0.0,139.96,2024-02-19,completed,credit_card,Berlin
+ORD00615,C022,P012,Desk Lamp,Home & Kitchen,3,34.99,0.1,104.97,10.5,94.47,2024-09-24,completed,credit_card,Amsterdam
+ORD00616,C003,P006,Bluetooth Speaker,Electronics,4,49.99,0.0,199.96,0.0,199.96,2024-07-28,completed,paypal,Nairobi
+ORD00617,C040,P007,Winter Jacket,Clothing,2,89.99,0.0,179.98,0.0,179.98,2024-07-20,completed,mpesa,London
+ORD00618,C013,P011,Running Shorts,Sports,1,24.99,0.05,24.99,1.25,23.74,2024-01-24,cancelled,credit_card,Johannesburg
+ORD00619,C050,P015,Laptop Stand,Electronics,4,39.99,0.15,159.96,23.99,135.97,2024-10-28,cancelled,debit_card,Johannesburg
+ORD00620,C032,P001,Wireless Headphones,Electronics,5,79.99,0.15,399.95,59.99,339.96,2024-01-25,cancelled,mpesa,Johannesburg
+ORD00621,C038,P016,Linen Shirt,Clothing,5,34.99,0.0,174.95,0.0,174.95,2024-12-20,cancelled,debit_card,Madrid
+ORD00622,C047,P005,Yoga Mat,Sports,1,29.99,0.05,29.99,1.5,28.49,2024-12-02,cancelled,paypal,Lagos
+ORD00623,C033,P013,Novel: The Algorithm,Books,4,14.99,0.1,59.96,6.0,53.96,2024-12-20,completed,paypal,Amsterdam
+ORD00624,C026,P011,Running Shorts,Sports,3,24.99,0.05,74.97,3.75,71.22,2024-03-09,completed,mpesa,Lagos
+ORD00625,C039,P017,French Press,Home & Kitchen,3,27.99,0.15,83.97,12.6,71.37,2024-10-07,completed,debit_card,Johannesburg
+ORD00626,C013,P007,Winter Jacket,Clothing,5,89.99,0.15,449.95,67.49,382.46,2024-05-28,completed,debit_card,Johannesburg
+ORD00627,C046,P006,Bluetooth Speaker,Electronics,5,49.99,0.1,249.95,25.0,224.95,2024-12-21,completed,credit_card,Berlin
+ORD00628,C049,P012,Desk Lamp,Home & Kitchen,5,34.99,0.05,174.95,8.75,166.2,2024-10-25,cancelled,mpesa,Paris
+ORD00629,C044,P018,Kindle E-Reader,Electronics,3,129.99,0.05,389.97,19.5,370.47,2024-01-07,cancelled,credit_card,London
+ORD00630,C002,P013,Novel: The Algorithm,Books,2,14.99,0.0,29.98,0.0,29.98,2024-12-09,completed,debit_card,Lagos
+ORD00631,C018,P006,Bluetooth Speaker,Electronics,3,49.99,0.15,149.97,22.5,127.47,2024-05-08,completed,credit_card,Nairobi
+ORD00632,C045,P010,Smart Watch,Electronics,2,199.99,0.1,399.98,40.0,359.98,2024-01-17,completed,mpesa,Berlin
+ORD00633,C007,P020,Mechanical Keyboard,Electronics,5,149.99,0.0,749.95,0.0,749.95,2024-11-27,cancelled,mpesa,Cairo
+ORD00634,C016,P017,French Press,Home & Kitchen,3,27.99,0.15,83.97,12.6,71.37,2024-12-06,completed,mpesa,Accra
+ORD00635,C025,P014,Protein Powder,Sports,3,54.99,0.1,164.97,16.5,148.47,2024-01-28,completed,paypal,Lagos
+ORD00636,C013,P020,Mechanical Keyboard,Electronics,4,149.99,0.0,599.96,0.0,599.96,2024-11-20,completed,debit_card,Johannesburg
+ORD00637,C050,P007,Winter Jacket,Clothing,3,89.99,0.05,269.97,13.5,256.47,2024-03-31,completed,debit_card,Johannesburg
+ORD00638,C012,P017,French Press,Home & Kitchen,1,27.99,0.05,27.99,1.4,26.59,2024-01-21,pending,paypal,Lagos
+ORD00639,C036,P009,Data Science Handbook,Books,2,44.99,0.0,89.98,0.0,89.98,2024-10-26,completed,credit_card,Berlin
+ORD00640,C022,P015,Laptop Stand,Electronics,2,39.99,0.0,79.98,0.0,79.98,2024-03-19,completed,credit_card,Amsterdam
+ORD00641,C050,P020,Mechanical Keyboard,Electronics,3,149.99,0.05,449.97,22.5,427.47,2024-10-20,cancelled,paypal,Johannesburg
+ORD00642,C005,P011,Running Shorts,Sports,5,24.99,0.0,124.95,0.0,124.95,2024-04-04,cancelled,credit_card,Amsterdam
+ORD00643,C033,P006,Bluetooth Speaker,Electronics,4,49.99,0.1,199.96,20.0,179.96,2024-10-01,pending,credit_card,Amsterdam
+ORD00644,C023,P008,Air Fryer,Home & Kitchen,2,69.99,0.15,139.98,21.0,118.98,2024-06-18,completed,paypal,Madrid
+ORD00645,C019,P007,Winter Jacket,Clothing,5,89.99,0.1,449.95,45.0,404.95,2024-08-31,cancelled,credit_card,Cairo
+ORD00646,C008,P012,Desk Lamp,Home & Kitchen,4,34.99,0.0,139.96,0.0,139.96,2024-11-24,cancelled,debit_card,Lagos
+ORD00647,C003,P011,Running Shorts,Sports,4,24.99,0.0,99.96,0.0,99.96,2024-07-16,completed,paypal,Nairobi
+ORD00648,C002,P017,French Press,Home & Kitchen,3,27.99,0.1,83.97,8.4,75.57,2024-09-17,pending,mpesa,Lagos
+ORD00649,C003,P010,Smart Watch,Electronics,2,199.99,0.0,399.98,0.0,399.98,2024-09-20,completed,credit_card,Nairobi
+ORD00650,C011,P018,Kindle E-Reader,Electronics,5,129.99,0.0,649.95,0.0,649.95,2024-11-16,completed,debit_card,Amsterdam
+ORD00651,C043,P007,Winter Jacket,Clothing,4,89.99,0.0,359.96,0.0,359.96,2024-04-15,cancelled,mpesa,Nairobi
+ORD00652,C042,P003,Python Programming,Books,2,39.99,0.0,79.98,0.0,79.98,2024-08-23,completed,credit_card,Amsterdam
+ORD00653,C006,P003,Python Programming,Books,1,39.99,0.0,39.99,0.0,39.99,2024-05-08,cancelled,credit_card,Cairo
+ORD00654,C037,P008,Air Fryer,Home & Kitchen,3,69.99,0.05,209.97,10.5,199.47,2024-07-17,pending,mpesa,Berlin
+ORD00655,C028,P011,Running Shorts,Sports,1,24.99,0.05,24.99,1.25,23.74,2024-12-10,completed,credit_card,Amsterdam
+ORD00656,C042,P020,Mechanical Keyboard,Electronics,1,149.99,0.15,149.99,22.5,127.49,2024-10-26,completed,credit_card,Amsterdam
+ORD00657,C023,P017,French Press,Home & Kitchen,1,27.99,0.0,27.99,0.0,27.99,2024-12-17,completed,credit_card,Madrid
+ORD00658,C019,P015,Laptop Stand,Electronics,4,39.99,0.05,159.96,8.0,151.96,2024-12-04,completed,mpesa,Cairo
+ORD00659,C011,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-07-19,cancelled,paypal,Amsterdam
+ORD00660,C041,P005,Yoga Mat,Sports,3,29.99,0.15,89.97,13.5,76.47,2024-11-27,completed,credit_card,Johannesburg
+ORD00661,C036,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-01-22,completed,mpesa,Berlin
+ORD00662,C035,P018,Kindle E-Reader,Electronics,1,129.99,0.0,129.99,0.0,129.99,2024-04-17,completed,debit_card,Johannesburg
+ORD00663,C027,P017,French Press,Home & Kitchen,2,27.99,0.0,55.98,0.0,55.98,2024-04-04,completed,paypal,Amsterdam
+ORD00664,C013,P004,Coffee Maker,Home & Kitchen,2,49.99,0.15,99.98,15.0,84.98,2024-10-17,completed,mpesa,Johannesburg
+ORD00665,C042,P018,Kindle E-Reader,Electronics,1,129.99,0.0,129.99,0.0,129.99,2024-12-09,completed,paypal,Amsterdam
+ORD00666,C007,P007,Winter Jacket,Clothing,5,89.99,0.05,449.95,22.5,427.45,2024-06-18,completed,debit_card,Cairo
+ORD00667,C043,P008,Air Fryer,Home & Kitchen,1,69.99,0.0,69.99,0.0,69.99,2024-11-13,completed,debit_card,Nairobi
+ORD00668,C021,P016,Linen Shirt,Clothing,4,34.99,0.0,139.96,0.0,139.96,2024-11-11,completed,debit_card,Berlin
+ORD00669,C037,P019,Hiking Boots,Sports,3,99.99,0.0,299.97,0.0,299.97,2024-08-07,completed,credit_card,Berlin
+ORD00670,C021,P008,Air Fryer,Home & Kitchen,2,69.99,0.15,139.98,21.0,118.98,2024-11-24,pending,paypal,Berlin
+ORD00671,C024,P005,Yoga Mat,Sports,3,29.99,0.05,89.97,4.5,85.47,2024-08-24,pending,paypal,Amsterdam
+ORD00672,C050,P010,Smart Watch,Electronics,4,199.99,0.1,799.96,80.0,719.96,2024-02-25,completed,credit_card,Johannesburg
+ORD00673,C018,P005,Yoga Mat,Sports,5,29.99,0.0,149.95,0.0,149.95,2024-05-14,completed,credit_card,Nairobi
+ORD00674,C002,P017,French Press,Home & Kitchen,1,27.99,0.1,27.99,2.8,25.19,2024-10-23,pending,debit_card,Lagos
+ORD00675,C003,P018,Kindle E-Reader,Electronics,3,129.99,0.1,389.97,39.0,350.97,2024-10-03,pending,debit_card,Nairobi
+ORD00676,C024,P013,Novel: The Algorithm,Books,2,14.99,0.1,29.98,3.0,26.98,2024-05-28,completed,mpesa,Amsterdam
+ORD00677,C033,P017,French Press,Home & Kitchen,1,27.99,0.05,27.99,1.4,26.59,2024-07-05,cancelled,credit_card,Amsterdam
+ORD00678,C043,P008,Air Fryer,Home & Kitchen,5,69.99,0.15,349.95,52.49,297.46,2024-03-25,cancelled,debit_card,Nairobi
+ORD00679,C029,P006,Bluetooth Speaker,Electronics,2,49.99,0.1,99.98,10.0,89.98,2024-10-16,completed,mpesa,Paris
+ORD00680,C023,P002,Running Shoes,Sports,2,59.99,0.05,119.98,6.0,113.98,2024-04-28,completed,paypal,Madrid
+ORD00681,C024,P008,Air Fryer,Home & Kitchen,1,69.99,0.15,69.99,10.5,59.49,2024-04-15,cancelled,paypal,Amsterdam
+ORD00682,C025,P016,Linen Shirt,Clothing,4,34.99,0.0,139.96,0.0,139.96,2024-01-21,completed,credit_card,Lagos
+ORD00683,C046,P017,French Press,Home & Kitchen,3,27.99,0.15,83.97,12.6,71.37,2024-05-14,cancelled,debit_card,Berlin
+ORD00684,C025,P013,Novel: The Algorithm,Books,3,14.99,0.1,44.97,4.5,40.47,2024-11-30,completed,paypal,Lagos
+ORD00685,C025,P008,Air Fryer,Home & Kitchen,5,69.99,0.05,349.95,17.5,332.45,2024-06-29,completed,mpesa,Lagos
+ORD00686,C031,P020,Mechanical Keyboard,Electronics,1,149.99,0.1,149.99,15.0,134.99,2024-03-12,pending,debit_card,Lagos
+ORD00687,C015,P003,Python Programming,Books,5,39.99,0.15,199.95,29.99,169.96,2024-05-23,completed,debit_card,Cairo
+ORD00688,C012,P006,Bluetooth Speaker,Electronics,3,49.99,0.1,149.97,15.0,134.97,2024-03-01,completed,mpesa,Lagos
+ORD00689,C022,P004,Coffee Maker,Home & Kitchen,4,49.99,0.15,199.96,29.99,169.97,2024-09-02,pending,debit_card,Amsterdam
+ORD00690,C038,P006,Bluetooth Speaker,Electronics,4,49.99,0.0,199.96,0.0,199.96,2024-05-04,completed,debit_card,Madrid
+ORD00691,C037,P019,Hiking Boots,Sports,2,99.99,0.0,199.98,0.0,199.98,2024-11-18,cancelled,credit_card,Berlin
+ORD00692,C037,P005,Yoga Mat,Sports,1,29.99,0.0,29.99,0.0,29.99,2024-05-12,completed,mpesa,Berlin
+ORD00693,C039,P019,Hiking Boots,Sports,1,99.99,0.15,99.99,15.0,84.99,2024-12-04,completed,credit_card,Johannesburg
+ORD00694,C014,P015,Laptop Stand,Electronics,5,39.99,0.05,199.95,10.0,189.95,2024-09-03,completed,debit_card,London
+ORD00695,C027,P020,Mechanical Keyboard,Electronics,2,149.99,0.1,299.98,30.0,269.98,2024-04-03,cancelled,paypal,Amsterdam
+ORD00696,C011,P011,Running Shorts,Sports,4,24.99,0.1,99.96,10.0,89.96,2024-10-29,completed,debit_card,Amsterdam
+ORD00697,C025,P013,Novel: The Algorithm,Books,2,14.99,0.0,29.98,0.0,29.98,2024-01-09,completed,mpesa,Lagos
+ORD00698,C010,P020,Mechanical Keyboard,Electronics,1,149.99,0.0,149.99,0.0,149.99,2024-08-31,cancelled,credit_card,Berlin
+ORD00699,C035,P017,French Press,Home & Kitchen,1,27.99,0.0,27.99,0.0,27.99,2024-09-03,completed,credit_card,Johannesburg
+ORD00700,C050,P014,Protein Powder,Sports,5,54.99,0.05,274.95,13.75,261.2,2024-07-08,completed,mpesa,Johannesburg
+ORD00701,C015,P016,Linen Shirt,Clothing,4,34.99,0.0,139.96,0.0,139.96,2024-10-28,cancelled,credit_card,Cairo
+ORD00702,C028,P005,Yoga Mat,Sports,3,29.99,0.05,89.97,4.5,85.47,2024-04-29,completed,paypal,Amsterdam
+ORD00703,C039,P018,Kindle E-Reader,Electronics,4,129.99,0.0,519.96,0.0,519.96,2024-04-06,completed,credit_card,Johannesburg
+ORD00704,C037,P017,French Press,Home & Kitchen,1,27.99,0.1,27.99,2.8,25.19,2024-01-04,pending,debit_card,Berlin
+ORD00705,C045,P011,Running Shorts,Sports,4,24.99,0.0,99.96,0.0,99.96,2024-02-24,completed,mpesa,Berlin
+ORD00706,C042,P019,Hiking Boots,Sports,3,99.99,0.0,299.97,0.0,299.97,2024-10-01,pending,paypal,Amsterdam
+ORD00707,C040,P009,Data Science Handbook,Books,4,44.99,0.0,179.96,0.0,179.96,2024-07-30,cancelled,mpesa,London
+ORD00708,C012,P012,Desk Lamp,Home & Kitchen,5,34.99,0.1,174.95,17.5,157.45,2024-09-04,completed,paypal,Lagos
+ORD00709,C037,P012,Desk Lamp,Home & Kitchen,4,34.99,0.15,139.96,20.99,118.97,2024-03-11,completed,debit_card,Berlin
+ORD00710,C029,P006,Bluetooth Speaker,Electronics,1,49.99,0.0,49.99,0.0,49.99,2024-09-17,pending,paypal,Paris
+ORD00711,C036,P020,Mechanical Keyboard,Electronics,1,149.99,0.0,149.99,0.0,149.99,2024-07-18,completed,credit_card,Berlin
+ORD00712,C010,P016,Linen Shirt,Clothing,5,34.99,0.05,174.95,8.75,166.2,2024-02-15,completed,paypal,Berlin
+ORD00713,C015,P012,Desk Lamp,Home & Kitchen,1,34.99,0.1,34.99,3.5,31.49,2024-01-20,pending,mpesa,Cairo
+ORD00714,C040,P017,French Press,Home & Kitchen,3,27.99,0.15,83.97,12.6,71.37,2024-11-01,completed,debit_card,London
+ORD00715,C041,P016,Linen Shirt,Clothing,4,34.99,0.0,139.96,0.0,139.96,2024-04-13,cancelled,paypal,Johannesburg
+ORD00716,C013,P002,Running Shoes,Sports,5,59.99,0.1,299.95,30.0,269.95,2024-09-21,completed,debit_card,Johannesburg
+ORD00717,C044,P002,Running Shoes,Sports,3,59.99,0.0,179.97,0.0,179.97,2024-12-01,completed,debit_card,London
+ORD00718,C006,P009,Data Science Handbook,Books,4,44.99,0.0,179.96,0.0,179.96,2024-12-08,pending,mpesa,Cairo
+ORD00719,C038,P007,Winter Jacket,Clothing,5,89.99,0.0,449.95,0.0,449.95,2024-12-26,completed,credit_card,Madrid
+ORD00720,C036,P010,Smart Watch,Electronics,5,199.99,0.1,999.95,100.0,899.95,2024-06-27,completed,paypal,Berlin
+ORD00721,C015,P020,Mechanical Keyboard,Electronics,2,149.99,0.05,299.98,15.0,284.98,2024-07-25,cancelled,credit_card,Cairo
+ORD00722,C017,P006,Bluetooth Speaker,Electronics,4,49.99,0.1,199.96,20.0,179.96,2024-02-24,cancelled,credit_card,Paris
+ORD00723,C033,P010,Smart Watch,Electronics,3,199.99,0.0,599.97,0.0,599.97,2024-09-19,completed,paypal,Amsterdam
+ORD00724,C045,P015,Laptop Stand,Electronics,4,39.99,0.1,159.96,16.0,143.96,2024-09-04,completed,paypal,Berlin
+ORD00725,C050,P015,Laptop Stand,Electronics,4,39.99,0.1,159.96,16.0,143.96,2024-01-15,pending,credit_card,Johannesburg
+ORD00726,C017,P003,Python Programming,Books,4,39.99,0.15,159.96,23.99,135.97,2024-04-22,completed,paypal,Paris
+ORD00727,C027,P012,Desk Lamp,Home & Kitchen,5,34.99,0.1,174.95,17.5,157.45,2024-01-05,completed,debit_card,Amsterdam
+ORD00728,C019,P003,Python Programming,Books,4,39.99,0.15,159.96,23.99,135.97,2024-06-24,completed,debit_card,Cairo
+ORD00729,C031,P011,Running Shorts,Sports,3,24.99,0.0,74.97,0.0,74.97,2024-10-20,completed,debit_card,Lagos
+ORD00730,C048,P007,Winter Jacket,Clothing,4,89.99,0.15,359.96,53.99,305.97,2024-04-12,completed,debit_card,Paris
+ORD00731,C017,P007,Winter Jacket,Clothing,2,89.99,0.0,179.98,0.0,179.98,2024-05-07,cancelled,paypal,Paris
+ORD00732,C010,P004,Coffee Maker,Home & Kitchen,1,49.99,0.0,49.99,0.0,49.99,2024-12-12,pending,credit_card,Berlin
+ORD00733,C049,P018,Kindle E-Reader,Electronics,1,129.99,0.05,129.99,6.5,123.49,2024-07-09,cancelled,paypal,Paris
+ORD00734,C032,P019,Hiking Boots,Sports,3,99.99,0.05,299.97,15.0,284.97,2024-04-03,cancelled,paypal,Johannesburg
+ORD00735,C026,P008,Air Fryer,Home & Kitchen,5,69.99,0.0,349.95,0.0,349.95,2024-01-28,cancelled,mpesa,Lagos
+ORD00736,C031,P018,Kindle E-Reader,Electronics,1,129.99,0.1,129.99,13.0,116.99,2024-06-26,pending,debit_card,Lagos
+ORD00737,C030,P004,Coffee Maker,Home & Kitchen,5,49.99,0.05,249.95,12.5,237.45,2024-06-10,completed,credit_card,Cairo
+ORD00738,C044,P007,Winter Jacket,Clothing,4,89.99,0.1,359.96,36.0,323.96,2024-02-21,completed,paypal,London
+ORD00739,C040,P009,Data Science Handbook,Books,2,44.99,0.1,89.98,9.0,80.98,2024-05-14,completed,paypal,London
+ORD00740,C031,P020,Mechanical Keyboard,Electronics,3,149.99,0.0,449.97,0.0,449.97,2024-04-04,pending,mpesa,Lagos
+ORD00741,C014,P014,Protein Powder,Sports,3,54.99,0.0,164.97,0.0,164.97,2024-07-24,completed,mpesa,London
+ORD00742,C012,P019,Hiking Boots,Sports,2,99.99,0.1,199.98,20.0,179.98,2024-12-17,completed,credit_card,Lagos
+ORD00743,C047,P009,Data Science Handbook,Books,2,44.99,0.1,89.98,9.0,80.98,2024-08-09,pending,debit_card,Lagos
+ORD00744,C010,P005,Yoga Mat,Sports,4,29.99,0.0,119.96,0.0,119.96,2024-03-31,pending,mpesa,Berlin
+ORD00745,C009,P017,French Press,Home & Kitchen,5,27.99,0.15,139.95,20.99,118.96,2024-06-10,pending,paypal,London
+ORD00746,C017,P018,Kindle E-Reader,Electronics,5,129.99,0.0,649.95,0.0,649.95,2024-07-22,completed,debit_card,Paris
+ORD00747,C004,P007,Winter Jacket,Clothing,3,89.99,0.05,269.97,13.5,256.47,2024-11-18,completed,mpesa,Amsterdam
+ORD00748,C048,P011,Running Shorts,Sports,3,24.99,0.0,74.97,0.0,74.97,2024-07-03,cancelled,paypal,Paris
+ORD00749,C023,P001,Wireless Headphones,Electronics,4,79.99,0.0,319.96,0.0,319.96,2024-06-28,cancelled,debit_card,Madrid
+ORD00750,C037,P019,Hiking Boots,Sports,5,99.99,0.0,499.95,0.0,499.95,2024-05-25,completed,paypal,Berlin
+ORD00751,C044,P017,French Press,Home & Kitchen,4,27.99,0.15,111.96,16.79,95.17,2024-08-16,completed,mpesa,London
+ORD00752,C040,P010,Smart Watch,Electronics,4,199.99,0.15,799.96,119.99,679.97,2024-03-15,completed,paypal,London
+ORD00753,C027,P020,Mechanical Keyboard,Electronics,5,149.99,0.05,749.95,37.5,712.45,2024-02-06,completed,debit_card,Amsterdam
+ORD00754,C022,P008,Air Fryer,Home & Kitchen,3,69.99,0.0,209.97,0.0,209.97,2024-11-30,completed,paypal,Amsterdam
+ORD00755,C039,P013,Novel: The Algorithm,Books,3,14.99,0.05,44.97,2.25,42.72,2024-07-04,cancelled,mpesa,Johannesburg
+ORD00756,C027,P006,Bluetooth Speaker,Electronics,2,49.99,0.0,99.98,0.0,99.98,2024-03-05,completed,paypal,Amsterdam
+ORD00757,C048,P003,Python Programming,Books,2,39.99,0.0,79.98,0.0,79.98,2024-07-22,completed,credit_card,Paris
+ORD00758,C005,P016,Linen Shirt,Clothing,5,34.99,0.0,174.95,0.0,174.95,2024-01-14,pending,credit_card,Amsterdam
+ORD00759,C007,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-02-13,pending,paypal,Cairo
+ORD00760,C015,P008,Air Fryer,Home & Kitchen,3,69.99,0.05,209.97,10.5,199.47,2024-11-16,completed,debit_card,Cairo
+ORD00761,C034,P006,Bluetooth Speaker,Electronics,1,49.99,0.0,49.99,0.0,49.99,2024-12-05,completed,paypal,Lagos
+ORD00762,C031,P015,Laptop Stand,Electronics,5,39.99,0.0,199.95,0.0,199.95,2024-10-07,pending,debit_card,Lagos
+ORD00763,C045,P018,Kindle E-Reader,Electronics,2,129.99,0.1,259.98,26.0,233.98,2024-11-01,pending,mpesa,Berlin
+ORD00764,C034,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-09-03,cancelled,debit_card,Lagos
+ORD00765,C006,P015,Laptop Stand,Electronics,3,39.99,0.0,119.97,0.0,119.97,2024-07-30,completed,debit_card,Cairo
+ORD00766,C020,P001,Wireless Headphones,Electronics,1,79.99,0.1,79.99,8.0,71.99,2024-03-10,completed,paypal,London
+ORD00767,C031,P018,Kindle E-Reader,Electronics,1,129.99,0.15,129.99,19.5,110.49,2024-09-08,pending,paypal,Lagos
+ORD00768,C001,P014,Protein Powder,Sports,3,54.99,0.1,164.97,16.5,148.47,2024-04-28,completed,paypal,Cairo
+ORD00769,C013,P014,Protein Powder,Sports,5,54.99,0.05,274.95,13.75,261.2,2024-07-21,completed,debit_card,Johannesburg
+ORD00770,C046,P013,Novel: The Algorithm,Books,4,14.99,0.0,59.96,0.0,59.96,2024-05-14,completed,mpesa,Berlin
+ORD00771,C041,P008,Air Fryer,Home & Kitchen,5,69.99,0.1,349.95,34.99,314.96,2024-12-21,completed,paypal,Johannesburg
+ORD00772,C042,P018,Kindle E-Reader,Electronics,3,129.99,0.05,389.97,19.5,370.47,2024-04-06,completed,debit_card,Amsterdam
+ORD00773,C009,P010,Smart Watch,Electronics,1,199.99,0.15,199.99,30.0,169.99,2024-08-21,cancelled,mpesa,London
+ORD00774,C018,P020,Mechanical Keyboard,Electronics,4,149.99,0.0,599.96,0.0,599.96,2024-06-13,completed,debit_card,Nairobi
+ORD00775,C004,P018,Kindle E-Reader,Electronics,1,129.99,0.0,129.99,0.0,129.99,2024-02-22,completed,paypal,Amsterdam
+ORD00776,C009,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-02-16,completed,credit_card,London
+ORD00777,C032,P007,Winter Jacket,Clothing,3,89.99,0.05,269.97,13.5,256.47,2024-06-08,pending,paypal,Johannesburg
+ORD00778,C030,P002,Running Shoes,Sports,3,59.99,0.0,179.97,0.0,179.97,2024-03-15,completed,paypal,Cairo
+ORD00779,C050,P013,Novel: The Algorithm,Books,1,14.99,0.1,14.99,1.5,13.49,2024-08-28,completed,debit_card,Johannesburg
+ORD00780,C017,P013,Novel: The Algorithm,Books,1,14.99,0.0,14.99,0.0,14.99,2024-05-07,pending,mpesa,Paris
+ORD00781,C016,P002,Running Shoes,Sports,2,59.99,0.05,119.98,6.0,113.98,2024-02-18,cancelled,debit_card,Accra
+ORD00782,C031,P013,Novel: The Algorithm,Books,3,14.99,0.0,44.97,0.0,44.97,2024-03-22,completed,credit_card,Lagos
+ORD00783,C017,P016,Linen Shirt,Clothing,3,34.99,0.0,104.97,0.0,104.97,2024-07-03,completed,debit_card,Paris
+ORD00784,C008,P008,Air Fryer,Home & Kitchen,4,69.99,0.0,279.96,0.0,279.96,2024-01-08,completed,paypal,Lagos
+ORD00785,C038,P004,Coffee Maker,Home & Kitchen,4,49.99,0.0,199.96,0.0,199.96,2024-01-05,completed,mpesa,Madrid
+ORD00786,C045,P020,Mechanical Keyboard,Electronics,2,149.99,0.0,299.98,0.0,299.98,2024-02-15,completed,debit_card,Berlin
+ORD00787,C032,P003,Python Programming,Books,5,39.99,0.0,199.95,0.0,199.95,2024-11-16,completed,credit_card,Johannesburg
+ORD00788,C023,P005,Yoga Mat,Sports,5,29.99,0.0,149.95,0.0,149.95,2024-03-05,pending,debit_card,Madrid
+ORD00789,C021,P018,Kindle E-Reader,Electronics,3,129.99,0.05,389.97,19.5,370.47,2024-04-08,completed,mpesa,Berlin
+ORD00790,C023,P005,Yoga Mat,Sports,3,29.99,0.0,89.97,0.0,89.97,2024-09-05,pending,paypal,Madrid
+ORD00791,C035,P016,Linen Shirt,Clothing,2,34.99,0.1,69.98,7.0,62.98,2024-04-05,cancelled,paypal,Johannesburg
+ORD00792,C021,P015,Laptop Stand,Electronics,3,39.99,0.1,119.97,12.0,107.97,2024-10-10,completed,credit_card,Berlin
+ORD00793,C034,P005,Yoga Mat,Sports,4,29.99,0.0,119.96,0.0,119.96,2024-05-14,cancelled,paypal,Lagos
+ORD00794,C030,P001,Wireless Headphones,Electronics,5,79.99,0.05,399.95,20.0,379.95,2024-04-04,completed,paypal,Cairo
+ORD00795,C050,P020,Mechanical Keyboard,Electronics,2,149.99,0.0,299.98,0.0,299.98,2024-02-02,cancelled,mpesa,Johannesburg
+ORD00796,C013,P017,French Press,Home & Kitchen,4,27.99,0.1,111.96,11.2,100.76,2024-03-19,cancelled,paypal,Johannesburg
+ORD00797,C021,P014,Protein Powder,Sports,3,54.99,0.0,164.97,0.0,164.97,2024-02-19,cancelled,credit_card,Berlin
+ORD00798,C003,P005,Yoga Mat,Sports,2,29.99,0.0,59.98,0.0,59.98,2024-04-13,completed,mpesa,Nairobi
+ORD00799,C013,P004,Coffee Maker,Home & Kitchen,1,49.99,0.1,49.99,5.0,44.99,2024-11-24,pending,mpesa,Johannesburg
+ORD00800,C034,P020,Mechanical Keyboard,Electronics,5,149.99,0.0,749.95,0.0,749.95,2024-01-26,completed,debit_card,Lagos
+ORD00801,C039,P003,Python Programming,Books,1,39.99,0.0,39.99,0.0,39.99,2024-12-01,pending,credit_card,Johannesburg
+ORD00802,C030,P002,Running Shoes,Sports,3,59.99,0.1,179.97,18.0,161.97,2024-07-31,completed,credit_card,Cairo
+ORD00803,C040,P009,Data Science Handbook,Books,5,44.99,0.0,224.95,0.0,224.95,2024-02-06,completed,credit_card,London
+ORD00804,C014,P017,French Press,Home & Kitchen,1,27.99,0.0,27.99,0.0,27.99,2024-04-28,cancelled,mpesa,London
+ORD00805,C013,P007,Winter Jacket,Clothing,5,89.99,0.15,449.95,67.49,382.46,2024-05-07,cancelled,debit_card,Johannesburg
+ORD00806,C036,P018,Kindle E-Reader,Electronics,4,129.99,0.15,519.96,77.99,441.97,2024-02-24,cancelled,paypal,Berlin
+ORD00807,C044,P015,Laptop Stand,Electronics,4,39.99,0.0,159.96,0.0,159.96,2024-03-26,completed,mpesa,London
+ORD00808,C033,P011,Running Shorts,Sports,2,24.99,0.1,49.98,5.0,44.98,2024-11-03,pending,paypal,Amsterdam
+ORD00809,C021,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-07-30,pending,paypal,Berlin
+ORD00810,C039,P008,Air Fryer,Home & Kitchen,5,69.99,0.1,349.95,34.99,314.96,2024-04-19,pending,paypal,Johannesburg
+ORD00811,C024,P015,Laptop Stand,Electronics,4,39.99,0.05,159.96,8.0,151.96,2024-01-01,completed,paypal,Amsterdam
+ORD00812,C039,P001,Wireless Headphones,Electronics,5,79.99,0.0,399.95,0.0,399.95,2024-06-03,completed,paypal,Johannesburg
+ORD00813,C015,P007,Winter Jacket,Clothing,3,89.99,0.0,269.97,0.0,269.97,2024-12-19,completed,debit_card,Cairo
+ORD00814,C007,P002,Running Shoes,Sports,4,59.99,0.0,239.96,0.0,239.96,2024-03-20,completed,paypal,Cairo
+ORD00815,C024,P019,Hiking Boots,Sports,2,99.99,0.0,199.98,0.0,199.98,2024-05-11,completed,credit_card,Amsterdam
+ORD00816,C037,P013,Novel: The Algorithm,Books,5,14.99,0.0,74.95,0.0,74.95,2024-02-09,completed,mpesa,Berlin
+ORD00817,C012,P016,Linen Shirt,Clothing,5,34.99,0.0,174.95,0.0,174.95,2024-10-31,completed,credit_card,Lagos
+ORD00818,C047,P019,Hiking Boots,Sports,4,99.99,0.0,399.96,0.0,399.96,2024-01-29,completed,paypal,Lagos
+ORD00819,C028,P014,Protein Powder,Sports,1,54.99,0.0,54.99,0.0,54.99,2024-11-30,cancelled,credit_card,Amsterdam
+ORD00820,C041,P013,Novel: The Algorithm,Books,1,14.99,0.0,14.99,0.0,14.99,2024-09-25,completed,paypal,Johannesburg
+ORD00821,C035,P019,Hiking Boots,Sports,2,99.99,0.0,199.98,0.0,199.98,2024-09-14,completed,debit_card,Johannesburg
+ORD00822,C004,P013,Novel: The Algorithm,Books,4,14.99,0.1,59.96,6.0,53.96,2024-10-21,cancelled,credit_card,Amsterdam
+ORD00823,C015,P014,Protein Powder,Sports,3,54.99,0.05,164.97,8.25,156.72,2024-03-16,completed,paypal,Cairo
+ORD00824,C006,P016,Linen Shirt,Clothing,5,34.99,0.15,174.95,26.24,148.71,2024-01-26,cancelled,mpesa,Cairo
+ORD00825,C017,P003,Python Programming,Books,4,39.99,0.1,159.96,16.0,143.96,2024-08-10,completed,debit_card,Paris
+ORD00826,C031,P018,Kindle E-Reader,Electronics,2,129.99,0.05,259.98,13.0,246.98,2024-07-21,cancelled,debit_card,Lagos
+ORD00827,C036,P020,Mechanical Keyboard,Electronics,5,149.99,0.0,749.95,0.0,749.95,2024-05-04,completed,paypal,Berlin
+ORD00828,C050,P014,Protein Powder,Sports,3,54.99,0.15,164.97,24.75,140.22,2024-10-21,completed,credit_card,Johannesburg
+ORD00829,C043,P014,Protein Powder,Sports,4,54.99,0.0,219.96,0.0,219.96,2024-06-27,completed,paypal,Nairobi
+ORD00830,C023,P020,Mechanical Keyboard,Electronics,1,149.99,0.0,149.99,0.0,149.99,2024-03-27,completed,mpesa,Madrid
+ORD00831,C040,P005,Yoga Mat,Sports,4,29.99,0.0,119.96,0.0,119.96,2024-04-29,completed,paypal,London
+ORD00832,C010,P003,Python Programming,Books,1,39.99,0.15,39.99,6.0,33.99,2024-01-28,completed,debit_card,Berlin
+ORD00833,C019,P001,Wireless Headphones,Electronics,3,79.99,0.15,239.97,36.0,203.97,2024-02-26,completed,mpesa,Cairo
+ORD00834,C031,P001,Wireless Headphones,Electronics,3,79.99,0.0,239.97,0.0,239.97,2024-10-02,completed,debit_card,Lagos
+ORD00835,C035,P017,French Press,Home & Kitchen,3,27.99,0.1,83.97,8.4,75.57,2024-09-04,cancelled,debit_card,Johannesburg
+ORD00836,C045,P001,Wireless Headphones,Electronics,4,79.99,0.1,319.96,32.0,287.96,2024-12-05,cancelled,credit_card,Berlin
+ORD00837,C017,P006,Bluetooth Speaker,Electronics,1,49.99,0.0,49.99,0.0,49.99,2024-04-12,cancelled,paypal,Paris
+ORD00838,C004,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-07-17,completed,paypal,Amsterdam
+ORD00839,C007,P001,Wireless Headphones,Electronics,3,79.99,0.15,239.97,36.0,203.97,2024-07-16,completed,mpesa,Cairo
+ORD00840,C033,P004,Coffee Maker,Home & Kitchen,3,49.99,0.05,149.97,7.5,142.47,2024-11-01,cancelled,credit_card,Amsterdam
+ORD00841,C012,P007,Winter Jacket,Clothing,5,89.99,0.05,449.95,22.5,427.45,2024-10-14,completed,credit_card,Lagos
+ORD00842,C016,P017,French Press,Home & Kitchen,3,27.99,0.0,83.97,0.0,83.97,2024-09-07,pending,debit_card,Accra
+ORD00843,C002,P012,Desk Lamp,Home & Kitchen,3,34.99,0.0,104.97,0.0,104.97,2024-11-16,completed,debit_card,Lagos
+ORD00844,C033,P009,Data Science Handbook,Books,1,44.99,0.15,44.99,6.75,38.24,2024-05-11,pending,credit_card,Amsterdam
+ORD00845,C036,P009,Data Science Handbook,Books,2,44.99,0.0,89.98,0.0,89.98,2024-06-23,pending,debit_card,Berlin
+ORD00846,C006,P013,Novel: The Algorithm,Books,5,14.99,0.15,74.95,11.24,63.71,2024-11-09,completed,mpesa,Cairo
+ORD00847,C016,P019,Hiking Boots,Sports,2,99.99,0.05,199.98,10.0,189.98,2024-06-08,cancelled,paypal,Accra
+ORD00848,C029,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-11-30,completed,debit_card,Paris
+ORD00849,C009,P010,Smart Watch,Electronics,5,199.99,0.0,999.95,0.0,999.95,2024-08-08,completed,debit_card,London
+ORD00850,C021,P003,Python Programming,Books,5,39.99,0.1,199.95,20.0,179.95,2024-03-01,completed,paypal,Berlin
+ORD00851,C010,P001,Wireless Headphones,Electronics,3,79.99,0.05,239.97,12.0,227.97,2024-07-29,completed,mpesa,Berlin
+ORD00852,C048,P009,Data Science Handbook,Books,2,44.99,0.0,89.98,0.0,89.98,2024-02-24,completed,debit_card,Paris
+ORD00853,C002,P020,Mechanical Keyboard,Electronics,5,149.99,0.0,749.95,0.0,749.95,2024-11-06,cancelled,debit_card,Lagos
+ORD00854,C039,P008,Air Fryer,Home & Kitchen,2,69.99,0.15,139.98,21.0,118.98,2024-01-14,completed,credit_card,Johannesburg
+ORD00855,C045,P016,Linen Shirt,Clothing,2,34.99,0.1,69.98,7.0,62.98,2024-11-05,pending,paypal,Berlin
+ORD00856,C012,P013,Novel: The Algorithm,Books,4,14.99,0.05,59.96,3.0,56.96,2024-03-11,completed,debit_card,Lagos
+ORD00857,C015,P002,Running Shoes,Sports,4,59.99,0.0,239.96,0.0,239.96,2024-05-18,pending,debit_card,Cairo
+ORD00858,C048,P007,Winter Jacket,Clothing,2,89.99,0.0,179.98,0.0,179.98,2024-03-31,pending,mpesa,Paris
+ORD00859,C045,P011,Running Shorts,Sports,4,24.99,0.0,99.96,0.0,99.96,2024-08-06,pending,credit_card,Berlin
+ORD00860,C039,P013,Novel: The Algorithm,Books,3,14.99,0.05,44.97,2.25,42.72,2024-11-09,cancelled,credit_card,Johannesburg
+ORD00861,C034,P004,Coffee Maker,Home & Kitchen,4,49.99,0.05,199.96,10.0,189.96,2024-01-22,completed,mpesa,Lagos
+ORD00862,C048,P002,Running Shoes,Sports,5,59.99,0.05,299.95,15.0,284.95,2024-09-21,completed,debit_card,Paris
+ORD00863,C019,P015,Laptop Stand,Electronics,4,39.99,0.0,159.96,0.0,159.96,2024-05-26,pending,debit_card,Cairo
+ORD00864,C028,P010,Smart Watch,Electronics,5,199.99,0.0,999.95,0.0,999.95,2024-12-19,cancelled,debit_card,Amsterdam
+ORD00865,C030,P015,Laptop Stand,Electronics,1,39.99,0.15,39.99,6.0,33.99,2024-09-13,completed,debit_card,Cairo
+ORD00866,C050,P019,Hiking Boots,Sports,5,99.99,0.0,499.95,0.0,499.95,2024-07-20,pending,paypal,Johannesburg
+ORD00867,C029,P001,Wireless Headphones,Electronics,2,79.99,0.05,159.98,8.0,151.98,2024-10-29,completed,mpesa,Paris
+ORD00868,C006,P009,Data Science Handbook,Books,3,44.99,0.15,134.97,20.25,114.72,2024-11-28,completed,credit_card,Cairo
+ORD00869,C006,P004,Coffee Maker,Home & Kitchen,4,49.99,0.15,199.96,29.99,169.97,2024-07-04,completed,mpesa,Cairo
+ORD00870,C047,P017,French Press,Home & Kitchen,5,27.99,0.0,139.95,0.0,139.95,2024-07-12,cancelled,mpesa,Lagos
+ORD00871,C003,P006,Bluetooth Speaker,Electronics,3,49.99,0.1,149.97,15.0,134.97,2024-12-03,completed,debit_card,Nairobi
+ORD00872,C010,P006,Bluetooth Speaker,Electronics,1,49.99,0.05,49.99,2.5,47.49,2024-06-06,completed,mpesa,Berlin
+ORD00873,C019,P006,Bluetooth Speaker,Electronics,1,49.99,0.0,49.99,0.0,49.99,2024-04-13,completed,paypal,Cairo
+ORD00874,C001,P015,Laptop Stand,Electronics,4,39.99,0.05,159.96,8.0,151.96,2024-10-05,completed,mpesa,Cairo
+ORD00875,C016,P007,Winter Jacket,Clothing,5,89.99,0.15,449.95,67.49,382.46,2024-08-31,pending,mpesa,Accra
+ORD00876,C029,P003,Python Programming,Books,5,39.99,0.1,199.95,20.0,179.95,2024-01-04,completed,paypal,Paris
+ORD00877,C040,P018,Kindle E-Reader,Electronics,2,129.99,0.0,259.98,0.0,259.98,2024-04-04,completed,credit_card,London
+ORD00878,C042,P012,Desk Lamp,Home & Kitchen,1,34.99,0.0,34.99,0.0,34.99,2024-01-17,cancelled,paypal,Amsterdam
+ORD00879,C022,P003,Python Programming,Books,1,39.99,0.0,39.99,0.0,39.99,2024-08-01,completed,debit_card,Amsterdam
+ORD00880,C044,P010,Smart Watch,Electronics,5,199.99,0.15,999.95,149.99,849.96,2024-12-20,cancelled,debit_card,London
+ORD00881,C030,P019,Hiking Boots,Sports,3,99.99,0.0,299.97,0.0,299.97,2024-02-17,completed,paypal,Cairo
+ORD00882,C024,P013,Novel: The Algorithm,Books,1,14.99,0.05,14.99,0.75,14.24,2024-10-08,completed,paypal,Amsterdam
+ORD00883,C031,P005,Yoga Mat,Sports,1,29.99,0.15,29.99,4.5,25.49,2024-05-20,completed,mpesa,Lagos
+ORD00884,C034,P007,Winter Jacket,Clothing,2,89.99,0.1,179.98,18.0,161.98,2024-01-30,completed,credit_card,Lagos
+ORD00885,C031,P020,Mechanical Keyboard,Electronics,3,149.99,0.05,449.97,22.5,427.47,2024-11-07,completed,paypal,Lagos
+ORD00886,C034,P019,Hiking Boots,Sports,5,99.99,0.0,499.95,0.0,499.95,2024-03-07,cancelled,mpesa,Lagos
+ORD00887,C034,P016,Linen Shirt,Clothing,4,34.99,0.0,139.96,0.0,139.96,2024-11-08,completed,paypal,Lagos
+ORD00888,C013,P001,Wireless Headphones,Electronics,1,79.99,0.0,79.99,0.0,79.99,2024-08-26,completed,debit_card,Johannesburg
+ORD00889,C040,P014,Protein Powder,Sports,4,54.99,0.0,219.96,0.0,219.96,2024-06-19,completed,debit_card,London
+ORD00890,C001,P007,Winter Jacket,Clothing,3,89.99,0.0,269.97,0.0,269.97,2024-02-04,completed,paypal,Cairo
+ORD00891,C033,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-02-28,completed,paypal,Amsterdam
+ORD00892,C026,P019,Hiking Boots,Sports,5,99.99,0.0,499.95,0.0,499.95,2024-03-30,completed,paypal,Lagos
+ORD00893,C022,P016,Linen Shirt,Clothing,4,34.99,0.0,139.96,0.0,139.96,2024-11-26,completed,mpesa,Amsterdam
+ORD00894,C010,P015,Laptop Stand,Electronics,5,39.99,0.0,199.95,0.0,199.95,2024-08-24,pending,credit_card,Berlin
+ORD00895,C034,P010,Smart Watch,Electronics,5,199.99,0.15,999.95,149.99,849.96,2024-12-13,completed,credit_card,Lagos
+ORD00896,C014,P019,Hiking Boots,Sports,3,99.99,0.0,299.97,0.0,299.97,2024-02-03,completed,paypal,London
+ORD00897,C002,P011,Running Shorts,Sports,4,24.99,0.15,99.96,14.99,84.97,2024-09-30,completed,mpesa,Lagos
+ORD00898,C012,P020,Mechanical Keyboard,Electronics,1,149.99,0.0,149.99,0.0,149.99,2024-12-27,completed,credit_card,Lagos
+ORD00899,C018,P014,Protein Powder,Sports,1,54.99,0.05,54.99,2.75,52.24,2024-05-01,completed,mpesa,Nairobi
+ORD00900,C020,P007,Winter Jacket,Clothing,5,89.99,0.0,449.95,0.0,449.95,2024-03-30,completed,paypal,London
+ORD00901,C003,P007,Winter Jacket,Clothing,1,89.99,0.05,89.99,4.5,85.49,2024-09-16,completed,mpesa,Nairobi
+ORD00902,C033,P005,Yoga Mat,Sports,2,29.99,0.0,59.98,0.0,59.98,2024-09-04,cancelled,paypal,Amsterdam
+ORD00903,C050,P011,Running Shorts,Sports,2,24.99,0.0,49.98,0.0,49.98,2024-09-21,completed,debit_card,Johannesburg
+ORD00904,C047,P002,Running Shoes,Sports,4,59.99,0.05,239.96,12.0,227.96,2024-09-24,completed,credit_card,Lagos
+ORD00905,C020,P002,Running Shoes,Sports,5,59.99,0.0,299.95,0.0,299.95,2024-06-19,pending,credit_card,London
+ORD00906,C007,P017,French Press,Home & Kitchen,3,27.99,0.0,83.97,0.0,83.97,2024-10-22,completed,debit_card,Cairo
+ORD00907,C021,P007,Winter Jacket,Clothing,2,89.99,0.0,179.98,0.0,179.98,2024-05-21,cancelled,paypal,Berlin
+ORD00908,C050,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-03-17,completed,paypal,Johannesburg
+ORD00909,C008,P001,Wireless Headphones,Electronics,5,79.99,0.1,399.95,40.0,359.95,2024-09-20,completed,debit_card,Lagos
+ORD00910,C035,P012,Desk Lamp,Home & Kitchen,5,34.99,0.0,174.95,0.0,174.95,2024-05-18,completed,paypal,Johannesburg
+ORD00911,C037,P008,Air Fryer,Home & Kitchen,2,69.99,0.0,139.98,0.0,139.98,2024-06-08,cancelled,paypal,Berlin
+ORD00912,C035,P015,Laptop Stand,Electronics,1,39.99,0.0,39.99,0.0,39.99,2024-01-15,pending,credit_card,Johannesburg
+ORD00913,C007,P013,Novel: The Algorithm,Books,1,14.99,0.0,14.99,0.0,14.99,2024-08-06,pending,debit_card,Cairo
+ORD00914,C046,P020,Mechanical Keyboard,Electronics,5,149.99,0.15,749.95,112.49,637.46,2024-12-19,pending,paypal,Berlin
+ORD00915,C020,P011,Running Shorts,Sports,2,24.99,0.15,49.98,7.5,42.48,2024-12-09,cancelled,credit_card,London
+ORD00916,C049,P015,Laptop Stand,Electronics,5,39.99,0.0,199.95,0.0,199.95,2024-02-17,pending,credit_card,Paris
+ORD00917,C030,P010,Smart Watch,Electronics,4,199.99,0.05,799.96,40.0,759.96,2024-04-28,completed,debit_card,Cairo
+ORD00918,C040,P009,Data Science Handbook,Books,3,44.99,0.05,134.97,6.75,128.22,2024-04-03,completed,paypal,London
+ORD00919,C030,P016,Linen Shirt,Clothing,1,34.99,0.0,34.99,0.0,34.99,2024-08-31,completed,paypal,Cairo
+ORD00920,C031,P015,Laptop Stand,Electronics,2,39.99,0.0,79.98,0.0,79.98,2024-06-27,cancelled,debit_card,Lagos
+ORD00921,C033,P004,Coffee Maker,Home & Kitchen,4,49.99,0.15,199.96,29.99,169.97,2024-02-24,completed,credit_card,Amsterdam
+ORD00922,C020,P018,Kindle E-Reader,Electronics,4,129.99,0.05,519.96,26.0,493.96,2024-10-29,pending,debit_card,London
+ORD00923,C040,P008,Air Fryer,Home & Kitchen,5,69.99,0.0,349.95,0.0,349.95,2024-09-03,pending,credit_card,London
+ORD00924,C022,P007,Winter Jacket,Clothing,5,89.99,0.05,449.95,22.5,427.45,2024-08-10,cancelled,paypal,Amsterdam
+ORD00925,C035,P008,Air Fryer,Home & Kitchen,2,69.99,0.15,139.98,21.0,118.98,2024-12-08,completed,mpesa,Johannesburg
+ORD00926,C008,P019,Hiking Boots,Sports,5,99.99,0.05,499.95,25.0,474.95,2024-06-15,cancelled,credit_card,Lagos
+ORD00927,C029,P006,Bluetooth Speaker,Electronics,3,49.99,0.05,149.97,7.5,142.47,2024-02-05,cancelled,credit_card,Paris
+ORD00928,C044,P020,Mechanical Keyboard,Electronics,4,149.99,0.0,599.96,0.0,599.96,2024-09-10,completed,credit_card,London
+ORD00929,C014,P005,Yoga Mat,Sports,5,29.99,0.15,149.95,22.49,127.46,2024-01-01,completed,debit_card,London
+ORD00930,C029,P018,Kindle E-Reader,Electronics,3,129.99,0.05,389.97,19.5,370.47,2024-11-11,cancelled,mpesa,Paris
+ORD00931,C013,P007,Winter Jacket,Clothing,3,89.99,0.0,269.97,0.0,269.97,2024-10-18,completed,mpesa,Johannesburg
+ORD00932,C046,P012,Desk Lamp,Home & Kitchen,1,34.99,0.1,34.99,3.5,31.49,2024-01-05,cancelled,mpesa,Berlin
+ORD00933,C009,P010,Smart Watch,Electronics,1,199.99,0.0,199.99,0.0,199.99,2024-10-08,completed,credit_card,London
+ORD00934,C046,P018,Kindle E-Reader,Electronics,3,129.99,0.0,389.97,0.0,389.97,2024-05-24,completed,debit_card,Berlin
+ORD00935,C028,P019,Hiking Boots,Sports,4,99.99,0.15,399.96,59.99,339.97,2024-06-11,pending,mpesa,Amsterdam
+ORD00936,C025,P014,Protein Powder,Sports,5,54.99,0.0,274.95,0.0,274.95,2024-12-05,completed,mpesa,Lagos
+ORD00937,C009,P007,Winter Jacket,Clothing,5,89.99,0.05,449.95,22.5,427.45,2024-07-03,pending,debit_card,London
+ORD00938,C019,P005,Yoga Mat,Sports,2,29.99,0.0,59.98,0.0,59.98,2024-02-06,completed,debit_card,Cairo
+ORD00939,C047,P016,Linen Shirt,Clothing,4,34.99,0.0,139.96,0.0,139.96,2024-02-13,completed,mpesa,Lagos
+ORD00940,C030,P020,Mechanical Keyboard,Electronics,4,149.99,0.1,599.96,60.0,539.96,2024-04-02,pending,mpesa,Cairo
+ORD00941,C036,P015,Laptop Stand,Electronics,4,39.99,0.0,159.96,0.0,159.96,2024-04-25,completed,mpesa,Berlin
+ORD00942,C039,P001,Wireless Headphones,Electronics,5,79.99,0.05,399.95,20.0,379.95,2024-05-01,cancelled,paypal,Johannesburg
+ORD00943,C027,P018,Kindle E-Reader,Electronics,5,129.99,0.0,649.95,0.0,649.95,2024-01-18,completed,mpesa,Amsterdam
+ORD00944,C046,P012,Desk Lamp,Home & Kitchen,1,34.99,0.1,34.99,3.5,31.49,2024-09-03,completed,debit_card,Berlin
+ORD00945,C047,P017,French Press,Home & Kitchen,3,27.99,0.05,83.97,4.2,79.77,2024-09-21,completed,credit_card,Lagos
+ORD00946,C016,P016,Linen Shirt,Clothing,1,34.99,0.15,34.99,5.25,29.74,2024-11-20,cancelled,paypal,Accra
+ORD00947,C040,P002,Running Shoes,Sports,3,59.99,0.1,179.97,18.0,161.97,2024-01-06,pending,mpesa,London
+ORD00948,C033,P016,Linen Shirt,Clothing,5,34.99,0.15,174.95,26.24,148.71,2024-06-18,pending,paypal,Amsterdam
+ORD00949,C019,P010,Smart Watch,Electronics,2,199.99,0.0,399.98,0.0,399.98,2024-12-21,cancelled,paypal,Cairo
+ORD00950,C047,P019,Hiking Boots,Sports,3,99.99,0.0,299.97,0.0,299.97,2024-11-18,pending,debit_card,Lagos
+ORD00951,C037,P002,Running Shoes,Sports,3,59.99,0.15,179.97,27.0,152.97,2024-11-15,completed,paypal,Berlin
+ORD00952,C032,P003,Python Programming,Books,2,39.99,0.1,79.98,8.0,71.98,2024-02-09,completed,paypal,Johannesburg
+ORD00953,C009,P020,Mechanical Keyboard,Electronics,3,149.99,0.0,449.97,0.0,449.97,2024-05-11,completed,credit_card,London
+ORD00954,C039,P006,Bluetooth Speaker,Electronics,5,49.99,0.15,249.95,37.49,212.46,2024-03-18,pending,paypal,Johannesburg
+ORD00955,C012,P009,Data Science Handbook,Books,2,44.99,0.05,89.98,4.5,85.48,2024-04-02,cancelled,credit_card,Lagos
+ORD00956,C022,P003,Python Programming,Books,2,39.99,0.1,79.98,8.0,71.98,2024-03-19,pending,mpesa,Amsterdam
+ORD00957,C050,P013,Novel: The Algorithm,Books,2,14.99,0.15,29.98,4.5,25.48,2024-08-13,completed,debit_card,Johannesburg
+ORD00958,C037,P012,Desk Lamp,Home & Kitchen,1,34.99,0.15,34.99,5.25,29.74,2024-05-15,completed,credit_card,Berlin
+ORD00959,C011,P015,Laptop Stand,Electronics,4,39.99,0.05,159.96,8.0,151.96,2024-06-03,pending,debit_card,Amsterdam
+ORD00960,C025,P013,Novel: The Algorithm,Books,4,14.99,0.0,59.96,0.0,59.96,2024-03-15,cancelled,mpesa,Lagos
+ORD00961,C001,P010,Smart Watch,Electronics,4,199.99,0.05,799.96,40.0,759.96,2024-12-13,completed,credit_card,Cairo
+ORD00962,C007,P018,Kindle E-Reader,Electronics,3,129.99,0.05,389.97,19.5,370.47,2024-11-08,completed,paypal,Cairo
+ORD00963,C018,P009,Data Science Handbook,Books,1,44.99,0.0,44.99,0.0,44.99,2024-12-01,cancelled,mpesa,Nairobi
+ORD00964,C030,P008,Air Fryer,Home & Kitchen,5,69.99,0.0,349.95,0.0,349.95,2024-09-23,completed,debit_card,Cairo
+ORD00965,C021,P018,Kindle E-Reader,Electronics,1,129.99,0.15,129.99,19.5,110.49,2024-01-05,completed,credit_card,Berlin
+ORD00966,C027,P004,Coffee Maker,Home & Kitchen,5,49.99,0.0,249.95,0.0,249.95,2024-12-16,pending,paypal,Amsterdam
+ORD00967,C015,P010,Smart Watch,Electronics,3,199.99,0.0,599.97,0.0,599.97,2024-01-18,completed,credit_card,Cairo
+ORD00968,C004,P020,Mechanical Keyboard,Electronics,2,149.99,0.1,299.98,30.0,269.98,2024-11-22,completed,credit_card,Amsterdam
+ORD00969,C006,P020,Mechanical Keyboard,Electronics,2,149.99,0.05,299.98,15.0,284.98,2024-12-02,cancelled,debit_card,Cairo
+ORD00970,C008,P006,Bluetooth Speaker,Electronics,3,49.99,0.0,149.97,0.0,149.97,2024-08-27,completed,mpesa,Lagos
+ORD00971,C018,P014,Protein Powder,Sports,3,54.99,0.0,164.97,0.0,164.97,2024-03-23,completed,paypal,Nairobi
+ORD00972,C050,P002,Running Shoes,Sports,4,59.99,0.05,239.96,12.0,227.96,2024-06-19,completed,paypal,Johannesburg
+ORD00973,C017,P006,Bluetooth Speaker,Electronics,4,49.99,0.0,199.96,0.0,199.96,2024-09-08,completed,mpesa,Paris
+ORD00974,C012,P016,Linen Shirt,Clothing,1,34.99,0.0,34.99,0.0,34.99,2024-10-03,pending,debit_card,Lagos
+ORD00975,C040,P004,Coffee Maker,Home & Kitchen,4,49.99,0.15,199.96,29.99,169.97,2024-05-12,completed,credit_card,London
+ORD00976,C005,P003,Python Programming,Books,5,39.99,0.15,199.95,29.99,169.96,2024-05-08,pending,credit_card,Amsterdam
+ORD00977,C032,P005,Yoga Mat,Sports,1,29.99,0.0,29.99,0.0,29.99,2024-12-06,pending,paypal,Johannesburg
+ORD00978,C010,P011,Running Shorts,Sports,4,24.99,0.1,99.96,10.0,89.96,2024-01-02,cancelled,mpesa,Berlin
+ORD00979,C031,P014,Protein Powder,Sports,4,54.99,0.15,219.96,32.99,186.97,2024-02-05,cancelled,debit_card,Lagos
+ORD00980,C001,P013,Novel: The Algorithm,Books,4,14.99,0.0,59.96,0.0,59.96,2024-10-17,cancelled,paypal,Cairo
+ORD00981,C022,P010,Smart Watch,Electronics,4,199.99,0.0,799.96,0.0,799.96,2024-11-19,completed,paypal,Amsterdam
+ORD00982,C035,P011,Running Shorts,Sports,1,24.99,0.05,24.99,1.25,23.74,2024-05-28,completed,debit_card,Johannesburg
+ORD00983,C036,P002,Running Shoes,Sports,4,59.99,0.15,239.96,35.99,203.97,2024-04-07,completed,mpesa,Berlin
+ORD00984,C007,P012,Desk Lamp,Home & Kitchen,4,34.99,0.0,139.96,0.0,139.96,2024-11-19,pending,debit_card,Cairo
+ORD00985,C009,P002,Running Shoes,Sports,2,59.99,0.0,119.98,0.0,119.98,2024-10-30,completed,mpesa,London
+ORD00986,C025,P003,Python Programming,Books,5,39.99,0.15,199.95,29.99,169.96,2024-06-06,pending,mpesa,Lagos
+ORD00987,C002,P002,Running Shoes,Sports,3,59.99,0.0,179.97,0.0,179.97,2024-06-21,completed,mpesa,Lagos
+ORD00988,C008,P007,Winter Jacket,Clothing,5,89.99,0.05,449.95,22.5,427.45,2024-12-13,cancelled,debit_card,Lagos
+ORD00989,C048,P019,Hiking Boots,Sports,2,99.99,0.0,199.98,0.0,199.98,2024-01-19,completed,mpesa,Paris
+ORD00990,C042,P001,Wireless Headphones,Electronics,4,79.99,0.1,319.96,32.0,287.96,2024-01-24,completed,debit_card,Amsterdam
+ORD00991,C001,P006,Bluetooth Speaker,Electronics,1,49.99,0.0,49.99,0.0,49.99,2024-02-19,pending,debit_card,Cairo
+ORD00992,C038,P003,Python Programming,Books,1,39.99,0.0,39.99,0.0,39.99,2024-09-11,cancelled,debit_card,Madrid
+ORD00993,C005,P007,Winter Jacket,Clothing,4,89.99,0.0,359.96,0.0,359.96,2024-12-13,pending,paypal,Amsterdam
+ORD00994,C008,P019,Hiking Boots,Sports,5,99.99,0.0,499.95,0.0,499.95,2024-06-13,completed,credit_card,Lagos
+ORD00995,C038,P006,Bluetooth Speaker,Electronics,3,49.99,0.0,149.97,0.0,149.97,2024-03-02,completed,debit_card,Madrid
+ORD00996,C049,P014,Protein Powder,Sports,2,54.99,0.15,109.98,16.5,93.48,2024-07-08,cancelled,debit_card,Paris
+ORD00997,C029,P008,Air Fryer,Home & Kitchen,5,69.99,0.0,349.95,0.0,349.95,2024-03-09,completed,mpesa,Paris
+ORD00998,C050,P006,Bluetooth Speaker,Electronics,1,49.99,0.05,49.99,2.5,47.49,2024-02-11,completed,credit_card,Johannesburg
+ORD00999,C012,P003,Python Programming,Books,5,39.99,0.0,199.95,0.0,199.95,2024-08-01,pending,debit_card,Lagos
+ORD01000,C014,P005,Yoga Mat,Sports,3,29.99,0.1,89.97,9.0,80.97,2024-08-18,pending,debit_card,London
